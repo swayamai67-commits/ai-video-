@@ -65,6 +65,11 @@ class SeqReader:
         while self.pos < i:
             buf = self.proc.stdout.read(n)
             if len(buf) < n:
+                if self.open_at is open_plate and self.pos + 1 < NSRC:
+                    # reached the end of the finished chunks: wait for more, then resume
+                    self.proc.kill()
+                    self.proc = self.open_at(self.pos + 1)
+                    continue
                 raise RuntimeError(f"source ended at {self.pos + 1}")
             self.pos += 1
             fr = np.frombuffer(buf, np.uint8).reshape(self.shape)
@@ -74,9 +79,18 @@ class SeqReader:
 
 
 def open_plate(i):
-    """Decode the SR plate from source frame i onwards, crossing chunk files."""
+    """Decode the SR plate from source frame i onwards, crossing chunk files.
+    Only finished chunks (.done) are opened; if the plate is still being upscaled the
+    reader waits for the next chunk and reopens (see SeqReader.get)."""
+    import time
     c = i // CHUNK
-    files = [f"{PLATE_DIR}/sr_{k:03d}.mp4" for k in range(c, (NSRC + CHUNK - 1) // CHUNK)]
+    while not os.path.exists(f"{PLATE_DIR}/sr_{c:03d}.mp4.done"):
+        time.sleep(20)
+    files = []
+    for k in range(c, (NSRC + CHUNK - 1) // CHUNK):
+        if not os.path.exists(f"{PLATE_DIR}/sr_{k:03d}.mp4.done"):
+            break
+        files.append(f"{PLATE_DIR}/sr_{k:03d}.mp4")
     lst = f"/tmp/finish_concat_{os.getpid()}.txt"
     open(lst, "w").write("".join(f"file '{f}'\n" for f in files))
     skip = i - c * CHUNK
