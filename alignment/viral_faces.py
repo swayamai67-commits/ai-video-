@@ -5,8 +5,12 @@ import cv2
 
 ROOT = pathlib.Path(__file__).resolve().parents[1]
 PUB = ROOT / "video/public/viral/plates"
-MODEL = pathlib.Path("/tmp/claude-0/models/yunet.onnx")
-# curl -sSL -o $MODEL https://media.githubusercontent.com/media/opencv/opencv_zoo/main/models/face_detection_yunet/face_detection_yunet_2023mar.onnx
+MODEL = pathlib.Path.home() / ".cache/opencv_zoo/face_detection_yunet_2023mar.onnx"
+URL = "https://media.githubusercontent.com/media/opencv/opencv_zoo/main/models/face_detection_yunet/face_detection_yunet_2023mar.onnx"
+if not MODEL.exists():
+    import urllib.request
+    MODEL.parent.mkdir(parents=True, exist_ok=True)
+    urllib.request.urlretrieve(URL, MODEL)
 out = {}
 for cid in sys.argv[1:] or ["portrait"]:
     res = []

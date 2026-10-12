@@ -50,8 +50,8 @@ const Vault: React.FC = () => {
 const Heist: React.FC = () => {
   const t = useT();
   const daaka = wtime(70, 5);
-  const tm = {from: 168.26, src: 0.0, speed: 0.35};
-  const f = frameAt('estate2', t, tm);
+  const tm = {from: 168.26, src: 1.0, speed: 0.3};
+  const f = frameAt('point', t, tm);
   const sp = springAt(t - 168.3, 2.2, 0.42);
   const st = springAt(t - daaka + 0.04, 3.4, 0.4);
   return (
@@ -61,7 +61,7 @@ const Heist: React.FC = () => {
       <div style={{position: 'absolute', left: 0, width: '100%', top: 230, textAlign: 'center', fontFamily: F.slam, fontSize: 250, color: C.ink, lineHeight: 1, letterSpacing: 6}}>WANTED</div>
       <Mono x={0} y={500} size={30} color={C.ink} style={{width: '100%', textAlign: 'center'}}>FOR THE ROBBERY OF 1 (ONE) HEART</Mono>
       <div style={{position: 'absolute', left: 190, top: 560, width: 700, height: 640, border: `6px solid ${C.ink}`, background: '#fff', overflow: 'hidden', transform: `scale(${0.9 + 0.1 * sp})`}}>
-        <Img src={cutSrc('estate2', f)} style={{position: 'absolute', width: '100%', height: '170%', objectFit: 'cover', objectPosition: '50% 0%', top: 0, filter: 'grayscale(1) contrast(1.7) brightness(1.1)'}} />
+        <Img src={cutSrc('point', f)} style={{position: 'absolute', width: '100%', height: '125%', objectFit: 'cover', objectPosition: '50% 0%', top: 0, filter: 'grayscale(1) contrast(1.7) brightness(1.1)'}} />
         <AbsoluteFill style={{background: `radial-gradient(closest-side, rgba(0,0,0,0.22), transparent) 0 0/9px 9px`, mixBlendMode: 'multiply'}} />
       </div>
       <Mono x={0} y={1600} size={30} color={C.ink} style={{width: '100%', textAlign: 'center'}}>REWARD: ∞ · LAST SEEN: THE ESTATE</Mono>
@@ -138,7 +138,7 @@ const Finale: React.FC = () => {
       {k >= 0 && (
         <AbsoluteFill style={{background: k === 2 && strobe ? C.gold : 'rgba(10,10,10,0.82)'}}>
           <PhulkariBurst s={ash[k]} scale={0.9 + k * 0.35} seed={k * 7 + 1} />
-          <AccentHero txt="ਅਸ਼ਕੇ" s={ash[k]} e={ash[k] + 0.62} y={820} size={300 + k * 90} color={k === 2 && strobe ? C.ink : C.gold} />
+          <AccentHero txt="ਅਸ਼ਕੇ" s={ash[k]} e={ash[k] + 0.62} y={820} size={300 + k * 60} color={k === 2 && strobe ? C.ink : C.gold} />
           <div style={{position: 'absolute', left: 0, width: '100%', top: 1080, textAlign: 'center', fontFamily: F.slam, fontSize: fitSize('ASHKE', 'slam', 700 + k * 160), color: k === 2 && strobe ? C.ink : C.bone, lineHeight: 1, transform: `scale(${1.2 - 0.2 * ease.outExpo(clamp((t - ash[k]) / 0.15))})`}}>
             ASHKE
           </div>

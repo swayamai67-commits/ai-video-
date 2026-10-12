@@ -155,7 +155,12 @@ export const Slam: React.FC<{
   const t = useT();
   const w = activeWord(words, t);
   if (!w) return null;
-  const p = look(w);
+  const base = look(w);
+  // clitics ('che, 'te) and tiny words land together with the word before them
+  const k = words.indexOf(w);
+  const prev = k > 0 ? words[k - 1] : null;
+  const pair = !!prev && !style?.(w, t) && !base.accent && !base.en && !look(prev).accent && !look(prev).en && (w.w.startsWith("'") || w.w.length <= 2);
+  const p = pair ? {...base, txt: `${look(prev!).txt} ${base.txt}`} : base;
   const size = Math.min(maxSize, fitSize(p.txt, p.key, width));
   const dt = t - (w.s - 0.04);
   const sc = 1.28 - 0.28 * clamp(ease.outExpo(dt / 0.14));

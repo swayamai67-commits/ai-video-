@@ -82,7 +82,7 @@ const Target: React.FC = () => {
 // ---------- 17.6 – 25.2 NAME (text behind subject) ----------
 const Name: React.FC = () => {
   const t = useT();
-  const tm = {from: 17.6, src: 0.0, speed: 0.15};
+  const tm = {from: 17.6, src: 0.0, speed: 0.2};
   const s1 = springAt(t - 17.75, 2.2, 0.4);
   const s2 = springAt(t - 18.6, 2.2, 0.4);
   const size = fitSize('KARAN', 'slam', 1000);
@@ -91,7 +91,7 @@ const Name: React.FC = () => {
     <Sc a={17.6} b={25.2}>
       {t < 22.75 ? (
         <Camera punch={0} drift={0.01} from={17.6}>
-          <Behind clip="estate2" {...tm} grade={GRADE.cold} dim={0.25}>
+          <Behind clip="walk" {...tm} grade={GRADE.cold} dim={0.25}>
             <div style={{position: 'absolute', left: 0, width: '100%', top: 300, textAlign: 'center', fontFamily: F.slam, fontSize: size, lineHeight: 0.86, color: C.bone}}>
               <div style={{transform: `translateY(${(1 - s1) * 200}px)`, opacity: clamp(s1 * 2)}}>KARAN</div>
               <div style={{transform: `translateY(${(1 - s2) * 200}px)`, opacity: clamp(s2 * 2), color: C.red}}>AUJLA</div>
@@ -124,8 +124,8 @@ const Name: React.FC = () => {
 
 // ---------- 25.2 – 31.9 WARDROBE (sticker slaps on beats) ----------
 const STICKERS: [string, number][] = [
-  ['hook', 20], ['walk', 100], ['fire', 70], ['tea', 10], ['study', 15], ['boat2', 140], ['lib', 30], ['polo2', 15],
-  ['point', 60], ['estate2', 70], ['dinner2', 120], ['shoot2', 30], ['mercy', 30], ['tea2', 20], ['study2', 60], ['lib3', 30],
+  ['hook', 20], ['walk', 100], ['fire', 70], ['tea', 10], ['study', 15], ['lib2', 30], ['lib', 30], ['polo2', 15],
+  ['point', 60], ['estate2', 70], ['dinner2', 120], ['shoot2', 30], ['mercy', 30], ['tea2', 20], ['dinner2', 200], ['lib3', 30],
 ];
 const Wardrobe: React.FC = () => {
   const t = useT();
@@ -139,14 +139,14 @@ const Wardrobe: React.FC = () => {
       <Paper />
       <PhulkariBand y={0} h={110} />
       <PhulkariBand y={H - 110} h={110} speed={-40} />
-      <div style={{position: 'absolute', left: 0, width: '100%', top: 700 - wsz * 0.4, textAlign: 'center', fontFamily: F.slam, fontSize: Math.min(wsz, 520), color: word === 'PIND' ? C.red : C.ink, lineHeight: 1, transform: `scale(${1 + pulse('downbeats', t, 0.15) * 0.08})`}}>
+      <div style={{position: 'absolute', left: 0, width: '100%', top: 210, textAlign: 'center', fontFamily: F.slam, fontSize: Math.min(wsz, 420), color: word === 'PIND' ? C.red : C.ink, lineHeight: 1, transform: `scale(${1 + pulse('downbeats', t, 0.15) * 0.08})`}}>
         {word}
       </div>
       {last.map((b) => {
         const k = beats.indexOf(b);
         const [clip, f] = STICKERS[k % STICKERS.length];
         const x = 60 + rnd(k * 3.1) * 420;
-        const y = 560 + rnd(k * 7.7) * 520;
+        const y = 640 + rnd(k * 7.7) * 380;
         return <Sticker key={k} clip={clip} tm={{from: 0, src: f / 25, speed: 0}} s={b} x={x} y={y} w={560} h={820} rot={(rnd(k * 1.3) - 0.5) * 22} />;
       })}
       <Tape y={1560} rot={-5} text="PIND ✶ TO ✶ PALACE" />
@@ -158,7 +158,7 @@ const Wardrobe: React.FC = () => {
 // ---------- 31.9 – 38.2 TITLE: ASHKE behind the walking Karan ----------
 const Title: React.FC = () => {
   const t = useT();
-  const tm = {from: 31.93, src: 0, speed: 1.0};
+  const tm = {from: 31.93, src: 1.0, speed: 0.85};
   const sz = fitSize('ASHKE', 'slam', 1040);
   const sp = springAt(t - 31.95, 2.4, 0.35);
   const punch = pulse('downbeats', t, 0.18);

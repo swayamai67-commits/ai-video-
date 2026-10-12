@@ -56,9 +56,9 @@ CLIPS = {
     # family portrait (sync), study (sync)
     "portrait":   (106.65, 118.9, *S(560, 230, 860), False),
     "study":      (120.85, 127.9, *V(700), True),
-    "study2":     (127.95, 133.9, *V(760), True),
+    "study2":     (127.95, 133.9, *V(760), False),
     # boat (sync)
-    "boat2":      (136.0, 147.0, *V(760), True),
+    "boat2":      (136.0, 147.0, *V(760), False),
     "jewels":     (148.3, 149.5, *S(600), False),
     "lib":        (149.85, 153.9, *V(980), True),
     "watch":      (155.0, 157.0, *S(620), False),
