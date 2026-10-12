@@ -1,7 +1,7 @@
 import React from 'react';
-import {AbsoluteFill, Img} from 'remotion';
+import {AbsoluteFill, Img, staticFile} from 'remotion';
 import {C, F, W, H} from './config';
-import {cutSrc, frameAt, Timing} from './Plate';
+import {frameAt, Timing} from './Plate';
 import {clamp, ease, noise, prog, rnd, springAt, useT} from './lib';
 
 // ---------- PHULKARI: satin-stitch diamond motifs ----------
@@ -103,16 +103,12 @@ export const Sticker: React.FC<{
   const sp = springAt(t - s + 0.04, 3.2, 0.42);
   const sc = 1.5 - 0.5 * sp;
   const f = frameAt(clip, t, tm);
+  // outline + shadow are pre-baked by alignment/viral_stickers.py (CSS drop-shadow chains render far too slowly)
   return (
     <div style={{position: 'absolute', left: x, top: y, width: w, height: h, transform: `rotate(${rot}deg) scale(${sc})`, transformOrigin: '50% 60%'}}>
       <Img
-        src={cutSrc(clip, f)}
-        style={{
-          width: '100%',
-          height: '100%',
-          objectFit: 'contain',
-          filter: `${filter} ${outline(stroke)} ${shadow ? 'drop-shadow(10px 18px 0 rgba(0,0,0,0.35))' : ''}`,
-        }}
+        src={staticFile(`viral/stickers/${clip}_${String(f).padStart(4, '0')}.webp`)}
+        style={{width: '100%', height: '100%', objectFit: 'contain', filter: filter || undefined}}
       />
     </div>
   );

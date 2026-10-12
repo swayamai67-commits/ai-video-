@@ -7,9 +7,10 @@
 | Lyrics → English letters | `alignment/romanize.py` | `data/viral/lyrics.json` (87 phrases, 399 words, timings copied from the frozen `data/phrases.json`), `docs/viral/lyrics-romanized.md` |
 | People plates | `alignment/viral_plates.py` | `video/public/viral/plates/<clip>/NNNN.jpg` (25 fps JPEG sequences), `video/src/viral/data/plates.json` |
 | Cutouts + tracking | `alignment/viral_cutouts.py` (run by the plates script) | `video/public/viral/cut/<clip>/NNNN.webp` (RGBA, rembg `u2net_human_seg`), `video/src/viral/data/track.json` (LK feature points, subject and head boxes) |
+| Stickers | `alignment/viral_stickers.py` | `video/public/viral/stickers/<clip>_<frame>.webp` (cutouts with a baked white outline and hard shadow) |
 | Faces | `alignment/viral_faces.py` | `video/src/viral/data/faces.json` (OpenCV YuNet on the family portrait) |
 | Type metrics | `alignment/viral_metrics.py` | `video/src/viral/data/metrics.json` (Latin advances from the font files; Gurmukhi and Devanagari widths shaped with HarfBuzz) |
-| Render | `npm run render:viral` | `out/ashke-viral-9x16.mp4` |
+| Render | `npm run render:viral` then `npm run encode:viral` | `out/ashke-viral-9x16-master.mp4` (CRF 18, git-ignored) → `out/ashke-viral-9x16.mp4` (web encode) |
 
 ## Romanization rules
 
@@ -37,6 +38,8 @@ The official MV is not in the repository, and the sandbox has no access to stock
 
 - Contact sheets of every crop window: removed the boat-with-gold-line, postcard, gilt-frame and patek-dial plates that still carried first-cut overlays, and trimmed clips whose ends ran into them.
 - Stills reviewed at every scene. Fixed: the lock running off-frame on close-ups (it is now clamped to the safe frame); KARAN AUJLA hidden behind his head (switched to a centred full-body shot); lyric lockups overlapping the ASHKE drop (MUTE windows); doubled accent words; lockups dropping into the Reels caption zone (auto-lift to y ≤ 1500); CHAUDA overflowing the frame.
+- The first full render crawled at the sticker collage (about 5 s per frame): eight chained CSS `drop-shadow`s per sticker are rasterised in software by headless Chrome. The outlines are now baked in Python (`viral_stickers.py`) and those frames render as fast as the rest.
+- Full-film contact sheet (`docs/viral/qa/contact-full.jpg`, one frame every 3 s) reviewed after the render. Fixed an empty WANTED photo window (the clip had only a sliver of him in those frames). That section (frames 4200–4345) was re-rendered and spliced into the master on exact frame boundaries, verified by frame count (5445) and stills either side of both joins.
 - The CSS halftone read as flat silhouettes on this soft, dark footage, so the zine pages use photocopied (high-contrast black and white) stickers instead. The halftone stays only as a print texture.
 
 ## Known weaknesses
@@ -52,8 +55,9 @@ The official MV is not in the repository, and the sandbox has no access to stock
 python3 -m venv .venv && .venv/bin/pip install opencv-python-headless numpy rembg onnxruntime pillow fonttools brotli uharfbuzz
 python3 alignment/romanize.py && cp data/viral/lyrics.json video/src/viral/data/
 .venv/bin/python alignment/viral_plates.py          # plates + cutouts + tracking (~45 min on 4 cores)
+.venv/bin/python alignment/viral_stickers.py       # baked sticker outlines
 .venv/bin/python alignment/viral_faces.py portrait  # downloads the YuNet model on first run
 .venv/bin/python alignment/viral_metrics.py
-cd video && npm install && npm run render:viral    # → out/ashke-viral-9x16.mp4
+cd video && npm install && npm run render:viral && npm run encode:viral   # master (CRF 18, git-ignored) → web encode out/ashke-viral-9x16.mp4
 node scripts/stills.mjs AshkeViral ../previews/qa 63.7 92.4 117.6   # QA stills at song times
 ```

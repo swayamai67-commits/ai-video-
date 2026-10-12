@@ -50,7 +50,7 @@ const Vault: React.FC = () => {
 const Heist: React.FC = () => {
   const t = useT();
   const daaka = wtime(70, 5);
-  const tm = {from: 168.26, src: 1.0, speed: 0.3};
+  const tm = {from: 168.26, src: 1.45, speed: 0.25};
   const f = frameAt('point', t, tm);
   const sp = springAt(t - 168.3, 2.2, 0.42);
   const st = springAt(t - daaka + 0.04, 3.4, 0.4);
