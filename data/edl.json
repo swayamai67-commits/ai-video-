@@ -1,0 +1,162 @@
+[
+ {
+  "start": 0.0,
+  "end": 4.6,
+  "src": "black",
+  "speed": 1,
+  "tag": "title",
+  "flags": ""
+ },
+ {
+  "start": 4.6,
+  "end": 8.4,
+  "src": 7.4,
+  "speed": 1,
+  "tag": "estate-wide",
+  "flags": ""
+ },
+ {
+  "start": 8.4,
+  "end": 14.1,
+  "src": 11.2,
+  "speed": 1,
+  "tag": "butler-door",
+  "flags": ""
+ },
+ {
+  "start": 14.1,
+  "end": 17.8,
+  "src": 16.9,
+  "speed": 1,
+  "tag": "arrival",
+  "flags": "zoom"
+ },
+ {
+  "start": 17.8,
+  "end": 20.2,
+  "src": 20.6,
+  "speed": 1,
+  "tag": "arrival-2",
+  "flags": "zoom"
+ },
+ {
+  "start": 20.2,
+  "end": 22.5,
+  "src": 23.0,
+  "speed": 1,
+  "tag": "arrival-3",
+  "flags": "zoom"
+ },
+ {
+  "start": 22.5,
+  "end": 24.2,
+  "src": 25.3,
+  "speed": 1,
+  "tag": "host-smile",
+  "flags": "zoom"
+ },
+ {
+  "start": 24.2,
+  "end": 31.0,
+  "src": "black",
+  "speed": 1,
+  "tag": "invitation",
+  "flags": ""
+ },
+ {
+  "start": 31.0,
+  "end": 38.2,
+  "src": 210.6,
+  "speed": 0.611,
+  "tag": "title-estate",
+  "flags": ""
+ },
+ {
+  "start": 38.2,
+  "end": 41.0,
+  "src": 85.4,
+  "speed": 1,
+  "tag": "butler-study",
+  "flags": "zoom"
+ },
+ {
+  "start": 41.0,
+  "end": 43.9,
+  "src": 89.7,
+  "speed": 1,
+  "tag": "reading",
+  "flags": "zoom"
+ },
+ {
+  "start": 43.9,
+  "end": 45.7,
+  "src": 208.8,
+  "speed": 1,
+  "tag": "boat-wide",
+  "flags": ""
+ },
+ {
+  "start": 45.7,
+  "end": 46.6,
+  "src": 95.3,
+  "speed": 1,
+  "tag": "mercy-close",
+  "flags": "zoom"
+ },
+ {
+  "start": 46.6,
+  "end": 48.28,
+  "src": 97.6,
+  "speed": 1,
+  "tag": "mercy-close-2",
+  "flags": "zoom"
+ },
+ {
+  "start": 48.28,
+  "end": 102.0,
+  "src": 28.36,
+  "speed": 1,
+  "tag": "sync-A",
+  "flags": ""
+ },
+ {
+  "start": 102.0,
+  "end": 103.4,
+  "src": 139.3,
+  "speed": 0.5,
+  "tag": "letter-1",
+  "flags": ""
+ },
+ {
+  "start": 103.4,
+  "end": 105.0,
+  "src": 143.2,
+  "speed": 0.5,
+  "tag": "letter-2",
+  "flags": ""
+ },
+ {
+  "start": 105.0,
+  "end": 106.6,
+  "src": 148.2,
+  "speed": 0.4375,
+  "tag": "letter-3",
+  "flags": ""
+ },
+ {
+  "start": 106.6,
+  "end": 217.66,
+  "src": 107.0,
+  "speed": 1,
+  "tag": "sync-B",
+  "flags": ""
+ },
+ {
+  "start": 217.66,
+  "end": 217.81,
+  "src": "black",
+  "speed": 1,
+  "tag": "end",
+  "flags": ""
+ }
+]

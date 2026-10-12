@@ -1,0 +1,8 @@
+node_modules/
+video/public/plates/
+video/out/
+# official footage is large and copyrighted; place it locally to rebuild plates
+inputs/reference-mv.mp4
+inputs/reference-reel.mp4
+__pycache__/
+*.log
