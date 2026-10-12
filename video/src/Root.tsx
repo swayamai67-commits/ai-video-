@@ -1,6 +1,7 @@
 import React from 'react';
 import {Composition} from 'remotion';
 import {FullFilm, ReelFilm} from './Film';
+import {EditCompositions} from './EditRoot';
 import {FPS, REEL_END, REEL_START, SONG_DURATION} from './theme';
 
 export const Root: React.FC = () => (
@@ -15,5 +16,6 @@ export const Root: React.FC = () => (
       durationInFrames={Math.round((REEL_END - REEL_START) * FPS)}
       defaultProps={{songStart: REEL_START, songEnd: REEL_END}}
     />
+    <EditCompositions />
   </>
 );

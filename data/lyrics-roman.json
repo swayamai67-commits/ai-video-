@@ -1,0 +1,4463 @@
+[
+ {
+  "id": 0,
+  "line": 0,
+  "half": 0,
+  "start": 38.22,
+  "end": 45.64,
+  "text": "Oh-oh-oh-oh-oh-oh",
+  "words": [
+   {
+    "i": 0,
+    "w": "Oh-oh-oh-oh-oh-oh",
+    "dev": "Oh-oh-oh-oh-oh-oh",
+    "s": 38.22,
+    "e": 45.64,
+    "accent": false,
+    "en": false
+   }
+  ]
+ },
+ {
+  "id": 1,
+  "line": 1,
+  "half": 0,
+  "start": 45.7,
+  "end": 46.42,
+  "text": "Mercy",
+  "words": [
+   {
+    "i": 1,
+    "w": "Mercy",
+    "dev": "Mercy",
+    "s": 45.7,
+    "e": 46.42,
+    "accent": false,
+    "en": true
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "line": 2,
+  "half": 0,
+  "start": 48.22,
+  "end": 49.28,
+  "text": "Jittan de shaunki",
+  "words": [
+   {
+    "i": 2,
+    "w": "Jittan",
+    "dev": "जितां",
+    "s": 48.22,
+    "e": 48.62,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 3,
+    "w": "de",
+    "dev": "दे",
+    "s": 48.68,
+    "e": 48.82,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 4,
+    "w": "shaunki",
+    "dev": "शौंकी",
+    "s": 48.9,
+    "e": 49.28,
+    "accent": false,
+    "en": false
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "line": 2,
+  "half": 1,
+  "start": 49.58,
+  "end": 51.74,
+  "text": "Sohniye haravan vairi hass ke",
+  "words": [
+   {
+    "i": 5,
+    "w": "Sohniye",
+    "dev": "सोहनिए",
+    "s": 49.58,
+    "e": 50.08,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 6,
+    "w": "haravan",
+    "dev": "हरावां",
+    "s": 50.12,
+    "e": 50.58,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 7,
+    "w": "vairi",
+    "dev": "वेरी",
+    "s": 50.66,
+    "e": 51.06,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 8,
+    "w": "hass",
+    "dev": "हस",
+    "s": 51.1,
+    "e": 51.32,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 9,
+    "w": "ke",
+    "dev": "के",
+    "s": 51.46,
+    "e": 51.74,
+    "accent": false,
+    "en": false
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "line": 3,
+  "half": 0,
+  "start": 51.78,
+  "end": 52.84,
+  "text": "Gidda landuan da",
+  "words": [
+   {
+    "i": 10,
+    "w": "Gidda",
+    "dev": "गिद्दा",
+    "s": 51.78,
+    "e": 52.16,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 11,
+    "w": "landuan",
+    "dev": "लंडुआं",
+    "s": 52.24,
+    "e": 52.64,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 12,
+    "w": "da",
+    "dev": "दा",
+    "s": 52.7,
+    "e": 52.84,
+    "accent": false,
+    "en": false
+   }
+  ]
+ },
+ {
+  "id": 5,
+  "line": 3,
+  "half": 1,
+  "start": 53.18,
+  "end": 55.32,
+  "text": "Yaariyan pawanda main kya dass ke",
+  "words": [
+   {
+    "i": 13,
+    "w": "Yaariyan",
+    "dev": "यारियां",
+    "s": 53.18,
+    "e": 53.68,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 14,
+    "w": "pawanda",
+    "dev": "पवांदा",
+    "s": 53.72,
+    "e": 54.18,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 15,
+    "w": "main",
+    "dev": "मैं",
+    "s": 54.24,
+    "e": 54.38,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 16,
+    "w": "kya",
+    "dev": "क्या",
+    "s": 54.46,
+    "e": 54.64,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 17,
+    "w": "dass",
+    "dev": "दस",
+    "s": 54.7,
+    "e": 54.98,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 18,
+    "w": "ke",
+    "dev": "के",
+    "s": 55.06,
+    "e": 55.32,
+    "accent": false,
+    "en": false
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "line": 4,
+  "half": 0,
+  "start": 55.38,
+  "end": 57.02,
+  "text": "Babe di saanu bakhshe",
+  "words": [
+   {
+    "i": 19,
+    "w": "Babe",
+    "dev": "बाबे",
+    "s": 55.38,
+    "e": 55.76,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 20,
+    "w": "di",
+    "dev": "दी",
+    "s": 55.82,
+    "e": 55.96,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 21,
+    "w": "saanu",
+    "dev": "सानू",
+    "s": 56.04,
+    "e": 56.44,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 22,
+    "w": "bakhshe",
+    "dev": "बख्शे",
+    "s": 56.52,
+    "e": 57.02,
+    "accent": false,
+    "en": false
+   }
+  ]
+ },
+ {
+  "id": 7,
+  "line": 4,
+  "half": 1,
+  "start": 57.2,
+  "end": 58.96,
+  "text": "Kannakiyan gaani lash ke",
+  "words": [
+   {
+    "i": 23,
+    "w": "Kannakiyan",
+    "dev": "कन्नकियां",
+    "s": 57.2,
+    "e": 57.78,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 24,
+    "w": "gaani",
+    "dev": "गानी",
+    "s": 57.88,
+    "e": 58.22,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 25,
+    "w": "lash",
+    "dev": "लश",
+    "s": 58.3,
+    "e": 58.5,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 26,
+    "w": "ke",
+    "dev": "के",
+    "s": 58.66,
+    "e": 58.96,
+    "accent": false,
+    "en": false
+   }
+  ]
+ },
+ {
+  "id": 8,
+  "line": 5,
+  "half": 0,
+  "start": 59.0,
+  "end": 60.02,
+  "text": "Ni mode paundi",
+  "words": [
+   {
+    "i": 27,
+    "w": "Ni",
+    "dev": "नी",
+    "s": 59.0,
+    "e": 59.12,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 28,
+    "w": "mode",
+    "dev": "मोडे",
+    "s": 59.2,
+    "e": 59.52,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 29,
+    "w": "paundi",
+    "dev": "पौंदी",
+    "s": 59.66,
+    "e": 60.02,
+    "accent": false,
+    "en": false
+   }
+  ]
+ },
+ {
+  "id": 9,
+  "line": 5,
+  "half": 1,
+  "start": 60.3,
+  "end": 62.52,
+  "text": "Jhumar de naal hi keh ke ASHKE",
+  "words": [
+   {
+    "i": 30,
+    "w": "Jhumar",
+    "dev": "झुमर",
+    "s": 60.3,
+    "e": 60.64,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 31,
+    "w": "de",
+    "dev": "दे",
+    "s": 60.82,
+    "e": 60.92,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 32,
+    "w": "naal",
+    "dev": "नाल",
+    "s": 60.96,
+    "e": 61.16,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 33,
+    "w": "hi",
+    "dev": "ही",
+    "s": 61.2,
+    "e": 61.28,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 34,
+    "w": "keh",
+    "dev": "कह",
+    "s": 61.42,
+    "e": 61.56,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 35,
+    "w": "ke",
+    "dev": "के",
+    "s": 61.64,
+    "e": 61.8,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 36,
+    "w": "ASHKE",
+    "dev": "अश्के",
+    "s": 61.96,
+    "e": 62.52,
+    "accent": true,
+    "en": false
+   }
+  ]
+ },
+ {
+  "id": 10,
+  "line": 6,
+  "half": 0,
+  "start": 62.54,
+  "end": 64.099,
+  "text": "Mere zor bada ae phatt 'che",
+  "words": [
+   {
+    "i": 37,
+    "w": "Mere",
+    "dev": "मेरे",
+    "s": 62.54,
+    "e": 62.72,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 38,
+    "w": "zor",
+    "dev": "जोर",
+    "s": 62.8,
+    "e": 63.06,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 39,
+    "w": "bada",
+    "dev": "बड़ा",
+    "s": 63.12,
+    "e": 63.4,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 40,
+    "w": "ae",
+    "dev": "ए",
+    "s": 63.48,
+    "e": 63.54,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 41,
+    "w": "phatt",
+    "dev": "फट",
+    "s": 63.66,
+    "e": 63.96,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 42,
+    "w": "'che",
+    "dev": "'चे",
+    "s": 64.0,
+    "e": 64.099,
+    "accent": false,
+    "en": false
+   }
+  ]
+ },
+ {
+  "id": 11,
+  "line": 6,
+  "half": 1,
+  "start": 64.379,
+  "end": 66.12,
+  "text": "Keeja tu saala hatt 'che",
+  "words": [
+   {
+    "i": 43,
+    "w": "Keeja",
+    "dev": "कीजा",
+    "s": 64.379,
+    "e": 64.739,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 44,
+    "w": "tu",
+    "dev": "तू",
+    "s": 64.8,
+    "e": 64.959,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 45,
+    "w": "saala",
+    "dev": "साला",
+    "s": 65.019,
+    "e": 65.42,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 46,
+    "w": "hatt",
+    "dev": "हत",
+    "s": 65.48,
+    "e": 65.68,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 47,
+    "w": "'che",
+    "dev": "'चे",
+    "s": 65.78,
+    "e": 66.12,
+    "accent": false,
+    "en": false
+   }
+  ]
+ },
+ {
+  "id": 12,
+  "line": 7,
+  "half": 0,
+  "start": 66.16,
+  "end": 67.8,
+  "text": "Tu jigra dekhi Jatt 'che",
+  "words": [
+   {
+    "i": 48,
+    "w": "Tu",
+    "dev": "तू",
+    "s": 66.16,
+    "e": 66.3,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 49,
+    "w": "jigra",
+    "dev": "जिगरा",
+    "s": 66.38,
+    "e": 66.74,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 50,
+    "w": "dekhi",
+    "dev": "देखी",
+    "s": 66.82,
+    "e": 67.18,
+    "accent": true,
+    "en": false
+   },
+   {
+    "i": 51,
+    "w": "Jatt",
+    "dev": "जट",
+    "s": 67.26,
+    "e": 67.4,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 52,
+    "w": "'che",
+    "dev": "'चे",
+    "s": 67.42,
+    "e": 67.8,
+    "accent": false,
+    "en": false
+   }
+  ]
+ },
+ {
+  "id": 13,
+  "line": 7,
+  "half": 1,
+  "start": 67.94,
+  "end": 69.7,
+  "text": "Khad janda kalla gadd 'che",
+  "words": [
+   {
+    "i": 53,
+    "w": "Khad",
+    "dev": "खड़",
+    "s": 67.94,
+    "e": 68.1,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 54,
+    "w": "janda",
+    "dev": "जांदा",
+    "s": 68.18,
+    "e": 68.54,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 55,
+    "w": "kalla",
+    "dev": "कल्ला",
+    "s": 68.62,
+    "e": 68.92,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 56,
+    "w": "gadd",
+    "dev": "गद",
+    "s": 69.04,
+    "e": 69.36,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 57,
+    "w": "'che",
+    "dev": "'चे",
+    "s": 69.38,
+    "e": 69.7,
+    "accent": false,
+    "en": false
+   }
+  ]
+ },
+ {
+  "id": 14,
+  "line": 8,
+  "half": 0,
+  "start": 69.74,
+  "end": 71.42,
+  "text": "Main sauda chalda puthiyan raan",
+  "words": [
+   {
+    "i": 58,
+    "w": "Main",
+    "dev": "मैं",
+    "s": 69.74,
+    "e": 69.88,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 59,
+    "w": "sauda",
+    "dev": "सोदा",
+    "s": 69.94,
+    "e": 70.32,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 60,
+    "w": "chalda",
+    "dev": "चलदा",
+    "s": 70.4,
+    "e": 70.76,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 61,
+    "w": "puthiyan",
+    "dev": "पुठियां",
+    "s": 70.8,
+    "e": 71.24,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 62,
+    "w": "raan",
+    "dev": "रां",
+    "s": 71.3,
+    "e": 71.42,
+    "accent": false,
+    "en": false
+   }
+  ]
+ },
+ {
+  "id": 15,
+  "line": 8,
+  "half": 1,
+  "start": 71.5,
+  "end": 73.24,
+  "text": "Bin valni saala matt 'che",
+  "words": [
+   {
+    "i": 63,
+    "w": "Bin",
+    "dev": "बिन",
+    "s": 71.5,
+    "e": 71.68,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 64,
+    "w": "valni",
+    "dev": "वलनी",
+    "s": 71.72,
+    "e": 72.08,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 65,
+    "w": "saala",
+    "dev": "साला",
+    "s": 72.18,
+    "e": 72.58,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 66,
+    "w": "matt",
+    "dev": "मत",
+    "s": 72.64,
+    "e": 72.86,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 67,
+    "w": "'che",
+    "dev": "'चे",
+    "s": 72.96,
+    "e": 73.24,
+    "accent": false,
+    "en": false
+   }
+  ]
+ },
+ {
+  "id": 16,
+  "line": 9,
+  "half": 0,
+  "start": 73.32,
+  "end": 74.86,
+  "text": "Latta koi ghisda kich le",
+  "words": [
+   {
+    "i": 68,
+    "w": "Latta",
+    "dev": "लत्ता",
+    "s": 73.32,
+    "e": 73.64,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 69,
+    "w": "koi",
+    "dev": "कोई",
+    "s": 73.74,
+    "e": 73.9,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 70,
+    "w": "ghisda",
+    "dev": "घिसदा",
+    "s": 73.96,
+    "e": 74.3,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 71,
+    "w": "kich",
+    "dev": "किच",
+    "s": 74.4,
+    "e": 74.72,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 72,
+    "w": "le",
+    "dev": "ले",
+    "s": 74.78,
+    "e": 74.86,
+    "accent": false,
+    "en": false
+   }
+  ]
+ },
+ {
+  "id": 17,
+  "line": 9,
+  "half": 1,
+  "start": 75.08,
+  "end": 76.72,
+  "text": "Menu trust ae neeli chhat 'che",
+  "words": [
+   {
+    "i": 73,
+    "w": "Menu",
+    "dev": "मेनू",
+    "s": 75.08,
+    "e": 75.24,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 74,
+    "w": "trust",
+    "dev": "trust",
+    "s": 75.28,
+    "e": 75.54,
+    "accent": false,
+    "en": true
+   },
+   {
+    "i": 75,
+    "w": "ae",
+    "dev": "ऐ",
+    "s": 75.68,
+    "e": 75.72,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 76,
+    "w": "neeli",
+    "dev": "नीली",
+    "s": 75.78,
+    "e": 76.14,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 77,
+    "w": "chhat",
+    "dev": "छत",
+    "s": 76.22,
+    "e": 76.44,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 78,
+    "w": "'che",
+    "dev": "'चे",
+    "s": 76.56,
+    "e": 76.72,
+    "accent": false,
+    "en": false
+   }
+  ]
+ },
+ {
+  "id": 18,
+  "line": 10,
+  "half": 0,
+  "start": 76.92,
+  "end": 77.96,
+  "text": "Saade kaam kaale",
+  "words": [
+   {
+    "i": 79,
+    "w": "Saade",
+    "dev": "साडे",
+    "s": 76.92,
+    "e": 77.28,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 80,
+    "w": "kaam",
+    "dev": "काम",
+    "s": 77.36,
+    "e": 77.48,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 81,
+    "w": "kaale",
+    "dev": "काले",
+    "s": 77.62,
+    "e": 77.96,
+    "accent": false,
+    "en": false
+   }
+  ]
+ },
+ {
+  "id": 19,
+  "line": 10,
+  "half": 1,
+  "start": 78.28,
+  "end": 80.42,
+  "text": "Teriyan gallan de utran laaliyan",
+  "words": [
+   {
+    "i": 82,
+    "w": "Teriyan",
+    "dev": "तेरियां",
+    "s": 78.28,
+    "e": 78.72,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 83,
+    "w": "gallan",
+    "dev": "गलां",
+    "s": 78.78,
+    "e": 79.06,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 84,
+    "w": "de",
+    "dev": "दे",
+    "s": 79.14,
+    "e": 79.32,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 85,
+    "w": "utran",
+    "dev": "उतरन",
+    "s": 79.36,
+    "e": 79.74,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 86,
+    "w": "laaliyan",
+    "dev": "लालियां",
+    "s": 79.82,
+    "e": 80.42,
+    "accent": false,
+    "en": false
+   }
+  ]
+ },
+ {
+  "id": 20,
+  "line": 11,
+  "half": 0,
+  "start": 80.48,
+  "end": 82.14,
+  "text": "Ni sattiyan si sohniye",
+  "words": [
+   {
+    "i": 87,
+    "w": "Ni",
+    "dev": "नी",
+    "s": 80.48,
+    "e": 80.6,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 88,
+    "w": "sattiyan",
+    "dev": "सत्तियां",
+    "s": 80.66,
+    "e": 81.28,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 89,
+    "w": "si",
+    "dev": "सी",
+    "s": 81.36,
+    "e": 81.48,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 90,
+    "w": "sohniye",
+    "dev": "सोहनिए",
+    "s": 81.6,
+    "e": 82.14,
+    "accent": false,
+    "en": false
+   }
+  ]
+ },
+ {
+  "id": 21,
+  "line": 11,
+  "half": 1,
+  "start": 82.28,
+  "end": 84.04,
+  "text": "Kismat aa main thaaliyan",
+  "words": [
+   {
+    "i": 91,
+    "w": "Kismat",
+    "dev": "किस्मत",
+    "s": 82.28,
+    "e": 82.92,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 92,
+    "w": "aa",
+    "dev": "आ",
+    "s": 82.98,
+    "e": 83.08,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 93,
+    "w": "main",
+    "dev": "मैं",
+    "s": 83.14,
+    "e": 83.32,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 94,
+    "w": "thaaliyan",
+    "dev": "ठालियां",
+    "s": 83.4,
+    "e": 84.04,
+    "accent": false,
+    "en": false
+   }
+  ]
+ },
+ {
+  "id": 22,
+  "line": 12,
+  "half": 0,
+  "start": 84.08,
+  "end": 85.1,
+  "text": "Pindan aaliyan",
+  "words": [
+   {
+    "i": 95,
+    "w": "Pindan",
+    "dev": "पिंडां",
+    "s": 84.08,
+    "e": 84.46,
+    "accent": true,
+    "en": false
+   },
+   {
+    "i": 96,
+    "w": "aaliyan",
+    "dev": "आळियां",
+    "s": 84.66,
+    "e": 85.1,
+    "accent": false,
+    "en": false
+   }
+  ]
+ },
+ {
+  "id": 23,
+  "line": 12,
+  "half": 1,
+  "start": 85.4,
+  "end": 87.8,
+  "text": "Saanu ta thyaun pindan aaliyan aa",
+  "words": [
+   {
+    "i": 97,
+    "w": "Saanu",
+    "dev": "सानू",
+    "s": 85.4,
+    "e": 85.7,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 98,
+    "w": "ta",
+    "dev": "ता",
+    "s": 85.76,
+    "e": 85.88,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 99,
+    "w": "thyaun",
+    "dev": "थ्याउन",
+    "s": 85.98,
+    "e": 86.46,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 100,
+    "w": "pindan",
+    "dev": "पिंडां",
+    "s": 86.52,
+    "e": 86.9,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 101,
+    "w": "aaliyan",
+    "dev": "आळियां",
+    "s": 87.12,
+    "e": 87.76,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 102,
+    "w": "aa",
+    "dev": "आ",
+    "s": 87.8,
+    "e": 87.8,
+    "accent": false,
+    "en": false
+   }
+  ]
+ },
+ {
+  "id": 24,
+  "line": 13,
+  "half": 0,
+  "start": 87.88,
+  "end": 88.86,
+  "text": "Asla karda chhan",
+  "words": [
+   {
+    "i": 103,
+    "w": "Asla",
+    "dev": "असला",
+    "s": 87.88,
+    "e": 88.18,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 104,
+    "w": "karda",
+    "dev": "करदा",
+    "s": 88.3,
+    "e": 88.66,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 105,
+    "w": "chhan",
+    "dev": "छां",
+    "s": 88.74,
+    "e": 88.86,
+    "accent": false,
+    "en": false
+   }
+  ]
+ },
+ {
+  "id": 25,
+  "line": 13,
+  "half": 1,
+  "start": 88.98,
+  "end": 91.16,
+  "text": "Saanu eeyan mutran ete taaliyan",
+  "words": [
+   {
+    "i": 106,
+    "w": "Saanu",
+    "dev": "सानू",
+    "s": 88.98,
+    "e": 89.36,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 107,
+    "w": "eeyan",
+    "dev": "ईयां",
+    "s": 89.44,
+    "e": 89.58,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 108,
+    "w": "mutran",
+    "dev": "मुतरां",
+    "s": 89.66,
+    "e": 90.06,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 109,
+    "w": "ete",
+    "dev": "एते",
+    "s": 90.14,
+    "e": 90.44,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 110,
+    "w": "taaliyan",
+    "dev": "टालियां",
+    "s": 90.56,
+    "e": 91.16,
+    "accent": false,
+    "en": false
+   }
+  ]
+ },
+ {
+  "id": 26,
+  "line": 14,
+  "half": 0,
+  "start": 91.22,
+  "end": 92.68,
+  "text": "Main yaar yaaran da jogi",
+  "words": [
+   {
+    "i": 111,
+    "w": "Main",
+    "dev": "मैं",
+    "s": 91.22,
+    "e": 91.34,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 112,
+    "w": "yaar",
+    "dev": "यार",
+    "s": 91.44,
+    "e": 91.68,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 113,
+    "w": "yaaran",
+    "dev": "यारां",
+    "s": 91.74,
+    "e": 92.04,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 114,
+    "w": "da",
+    "dev": "दा",
+    "s": 92.1,
+    "e": 92.24,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 115,
+    "w": "jogi",
+    "dev": "जोगी",
+    "s": 92.36,
+    "e": 92.68,
+    "accent": true,
+    "en": false
+   }
+  ]
+ },
+ {
+  "id": 27,
+  "line": 14,
+  "half": 1,
+  "start": 93.02,
+  "end": 94.72,
+  "text": "Mere dabb 'te asli beena",
+  "words": [
+   {
+    "i": 116,
+    "w": "Mere",
+    "dev": "मेरे",
+    "s": 93.02,
+    "e": 93.18,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 117,
+    "w": "dabb",
+    "dev": "डब",
+    "s": 93.22,
+    "e": 93.38,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 118,
+    "w": "'te",
+    "dev": "'ते",
+    "s": 93.4,
+    "e": 93.6,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 119,
+    "w": "asli",
+    "dev": "असली",
+    "s": 93.68,
+    "e": 94.02,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 120,
+    "w": "beena",
+    "dev": "बीना",
+    "s": 94.12,
+    "e": 94.72,
+    "accent": false,
+    "en": false
+   }
+  ]
+ },
+ {
+  "id": 28,
+  "line": 15,
+  "half": 0,
+  "start": 94.78,
+  "end": 96.44,
+  "text": "Menu daate maan ne jigre ni",
+  "words": [
+   {
+    "i": 121,
+    "w": "Menu",
+    "dev": "मेनू",
+    "s": 94.78,
+    "e": 94.96,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 122,
+    "w": "daate",
+    "dev": "दाते",
+    "s": 95.0,
+    "e": 95.42,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 123,
+    "w": "maan",
+    "dev": "मां",
+    "s": 95.5,
+    "e": 95.64,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 124,
+    "w": "ne",
+    "dev": "ने",
+    "s": 95.72,
+    "e": 95.82,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 125,
+    "w": "jigre",
+    "dev": "जिगरे",
+    "s": 95.92,
+    "e": 96.3,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 126,
+    "w": "ni",
+    "dev": "नी",
+    "s": 96.36,
+    "e": 96.44,
+    "accent": false,
+    "en": false
+   }
+  ]
+ },
+ {
+  "id": 29,
+  "line": 15,
+  "half": 1,
+  "start": 96.58,
+  "end": 98.36,
+  "text": "Kalla chauda ni seena",
+  "words": [
+   {
+    "i": 127,
+    "w": "Kalla",
+    "dev": "कल्ला",
+    "s": 96.58,
+    "e": 96.94,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 128,
+    "w": "chauda",
+    "dev": "चौड़ा",
+    "s": 97.04,
+    "e": 97.42,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 129,
+    "w": "ni",
+    "dev": "नी",
+    "s": 97.46,
+    "e": 97.62,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 130,
+    "w": "seena",
+    "dev": "सीना",
+    "s": 97.72,
+    "e": 98.36,
+    "accent": true,
+    "en": false
+   }
+  ]
+ },
+ {
+  "id": 30,
+  "line": 16,
+  "half": 0,
+  "start": 98.62,
+  "end": 99.9,
+  "text": "Baby you so fire",
+  "words": [
+   {
+    "i": 131,
+    "w": "Baby",
+    "dev": "Baby",
+    "s": 98.62,
+    "e": 99.02,
+    "accent": false,
+    "en": true
+   },
+   {
+    "i": 132,
+    "w": "you",
+    "dev": "you",
+    "s": 99.08,
+    "e": 99.2,
+    "accent": false,
+    "en": true
+   },
+   {
+    "i": 133,
+    "w": "so",
+    "dev": "so",
+    "s": 99.28,
+    "e": 99.44,
+    "accent": false,
+    "en": true
+   },
+   {
+    "i": 134,
+    "w": "fire",
+    "dev": "fire",
+    "s": 99.52,
+    "e": 99.9,
+    "accent": false,
+    "en": true
+   }
+  ]
+ },
+ {
+  "id": 31,
+  "line": 16,
+  "half": 1,
+  "start": 100.18,
+  "end": 101.72,
+  "text": "Kahi jehdi mile na seena",
+  "words": [
+   {
+    "i": 135,
+    "w": "Kahi",
+    "dev": "कहि",
+    "s": 100.18,
+    "e": 100.34,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 136,
+    "w": "jehdi",
+    "dev": "जेड़ी",
+    "s": 100.44,
+    "e": 100.78,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 137,
+    "w": "mile",
+    "dev": "मिले",
+    "s": 100.84,
+    "e": 100.98,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 138,
+    "w": "na",
+    "dev": "न",
+    "s": 101.14,
+    "e": 101.22,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 139,
+    "w": "seena",
+    "dev": "सीना",
+    "s": 101.28,
+    "e": 101.72,
+    "accent": false,
+    "en": false
+   }
+  ]
+ },
+ {
+  "id": 32,
+  "line": 17,
+  "half": 0,
+  "start": 101.78,
+  "end": 103.42,
+  "text": "Ve main miss kardi aa tainu",
+  "words": [
+   {
+    "i": 140,
+    "w": "Ve",
+    "dev": "वे",
+    "s": 101.78,
+    "e": 101.92,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 141,
+    "w": "main",
+    "dev": "मैं",
+    "s": 101.98,
+    "e": 102.1,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 142,
+    "w": "miss",
+    "dev": "miss",
+    "s": 102.16,
+    "e": 102.34,
+    "accent": false,
+    "en": true
+   },
+   {
+    "i": 143,
+    "w": "kardi",
+    "dev": "करदी",
+    "s": 102.4,
+    "e": 102.86,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 144,
+    "w": "aa",
+    "dev": "आ",
+    "s": 102.9,
+    "e": 102.98,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 145,
+    "w": "tainu",
+    "dev": "तिनू",
+    "s": 103.1,
+    "e": 103.42,
+    "accent": false,
+    "en": false
+   }
+  ]
+ },
+ {
+  "id": 33,
+  "line": 17,
+  "half": 1,
+  "start": 103.56,
+  "end": 105.54,
+  "text": "Hun kade mil ja yaar shakeena",
+  "words": [
+   {
+    "i": 146,
+    "w": "Hun",
+    "dev": "हुं",
+    "s": 103.56,
+    "e": 103.7,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 147,
+    "w": "kade",
+    "dev": "कदे",
+    "s": 103.76,
+    "e": 103.92,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 148,
+    "w": "mil",
+    "dev": "मिल",
+    "s": 103.96,
+    "e": 104.14,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 149,
+    "w": "ja",
+    "dev": "जा",
+    "s": 104.2,
+    "e": 104.32,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 150,
+    "w": "yaar",
+    "dev": "यार",
+    "s": 104.44,
+    "e": 104.66,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 151,
+    "w": "shakeena",
+    "dev": "शकीना",
+    "s": 104.74,
+    "e": 105.54,
+    "accent": false,
+    "en": false
+   }
+  ]
+ },
+ {
+  "id": 34,
+  "line": 18,
+  "half": 0,
+  "start": 105.58,
+  "end": 106.62,
+  "text": "Handa guruan nu",
+  "words": [
+   {
+    "i": 152,
+    "w": "Handa",
+    "dev": "हनदा",
+    "s": 105.58,
+    "e": 105.92,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 153,
+    "w": "guruan",
+    "dev": "गुरुआं",
+    "s": 106.02,
+    "e": 106.42,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 154,
+    "w": "nu",
+    "dev": "नूं",
+    "s": 106.48,
+    "e": 106.62,
+    "accent": false,
+    "en": false
+   }
+  ]
+ },
+ {
+  "id": 35,
+  "line": 18,
+  "half": 1,
+  "start": 106.92,
+  "end": 109.12,
+  "text": "Vich rehal karne mera saath ae",
+  "words": [
+   {
+    "i": 155,
+    "w": "Vich",
+    "dev": "विच",
+    "s": 106.92,
+    "e": 107.16,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 156,
+    "w": "rehal",
+    "dev": "रहल",
+    "s": 107.3,
+    "e": 107.52,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 157,
+    "w": "karne",
+    "dev": "करने",
+    "s": 107.6,
+    "e": 107.96,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 158,
+    "w": "mera",
+    "dev": "मेरा",
+    "s": 108.02,
+    "e": 108.4,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 159,
+    "w": "saath",
+    "dev": "साथ",
+    "s": 108.48,
+    "e": 108.82,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 160,
+    "w": "ae",
+    "dev": "ए",
+    "s": 108.94,
+    "e": 109.12,
+    "accent": false,
+    "en": false
+   }
+  ]
+ },
+ {
+  "id": 36,
+  "line": 19,
+  "half": 0,
+  "start": 109.18,
+  "end": 110.2,
+  "text": "Ik poorab je 'te",
+  "words": [
+   {
+    "i": 161,
+    "w": "Ik",
+    "dev": "इक",
+    "s": 109.18,
+    "e": 109.32,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 162,
+    "w": "poorab",
+    "dev": "पूरब",
+    "s": 109.38,
+    "e": 109.74,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 163,
+    "w": "je",
+    "dev": "जे",
+    "s": 109.8,
+    "e": 109.92,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 164,
+    "w": "'te",
+    "dev": "'ते",
+    "s": 109.94,
+    "e": 110.2,
+    "accent": false,
+    "en": false
+   }
+  ]
+ },
+ {
+  "id": 37,
+  "line": 19,
+  "half": 1,
+  "start": 110.56,
+  "end": 112.7,
+  "text": "Ohde to vida nahi aundi aadat ae",
+  "words": [
+   {
+    "i": 165,
+    "w": "Ohde",
+    "dev": "ओहदे",
+    "s": 110.56,
+    "e": 110.8,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 166,
+    "w": "to",
+    "dev": "तो",
+    "s": 110.86,
+    "e": 110.98,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 167,
+    "w": "vida",
+    "dev": "विदा",
+    "s": 111.04,
+    "e": 111.32,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 168,
+    "w": "nahi",
+    "dev": "नहीं",
+    "s": 111.38,
+    "e": 111.6,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 169,
+    "w": "aundi",
+    "dev": "औंदी",
+    "s": 111.68,
+    "e": 112.04,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 170,
+    "w": "aadat",
+    "dev": "आदत",
+    "s": 112.12,
+    "e": 112.4,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 171,
+    "w": "ae",
+    "dev": "ए",
+    "s": 112.54,
+    "e": 112.7,
+    "accent": false,
+    "en": false
+   }
+  ]
+ },
+ {
+  "id": 38,
+  "line": 20,
+  "half": 0,
+  "start": 112.76,
+  "end": 113.76,
+  "text": "Ajj saukhi lagdi",
+  "words": [
+   {
+    "i": 172,
+    "w": "Ajj",
+    "dev": "अज",
+    "s": 112.76,
+    "e": 112.9,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 173,
+    "w": "saukhi",
+    "dev": "सोखी",
+    "s": 112.96,
+    "e": 113.36,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 174,
+    "w": "lagdi",
+    "dev": "लगदी",
+    "s": 113.4,
+    "e": 113.76,
+    "accent": false,
+    "en": false
+   }
+  ]
+ },
+ {
+  "id": 39,
+  "line": 20,
+  "half": 1,
+  "start": 114.08,
+  "end": 116.24,
+  "text": "Aaj di dikhange jaane baad 'te",
+  "words": [
+   {
+    "i": 175,
+    "w": "Aaj",
+    "dev": "आज",
+    "s": 114.08,
+    "e": 114.36,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 176,
+    "w": "di",
+    "dev": "दी",
+    "s": 114.42,
+    "e": 114.54,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 177,
+    "w": "dikhange",
+    "dev": "दिखांगे",
+    "s": 114.6,
+    "e": 115.1,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 178,
+    "w": "jaane",
+    "dev": "जाने",
+    "s": 115.18,
+    "e": 115.56,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 179,
+    "w": "baad",
+    "dev": "बाद",
+    "s": 115.64,
+    "e": 115.9,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 180,
+    "w": "'te",
+    "dev": "'ते",
+    "s": 115.92,
+    "e": 116.24,
+    "accent": false,
+    "en": false
+   }
+  ]
+ },
+ {
+  "id": 40,
+  "line": 21,
+  "half": 0,
+  "start": 116.3,
+  "end": 117.82,
+  "text": "Thode simple mere naanke",
+  "words": [
+   {
+    "i": 181,
+    "w": "Thode",
+    "dev": "थोड़े",
+    "s": 116.3,
+    "e": 116.46,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 182,
+    "w": "simple",
+    "dev": "simple",
+    "s": 116.52,
+    "e": 116.88,
+    "accent": false,
+    "en": true
+   },
+   {
+    "i": 183,
+    "w": "mere",
+    "dev": "मेरे",
+    "s": 116.98,
+    "e": 117.34,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 184,
+    "w": "naanke",
+    "dev": "नानके",
+    "s": 117.42,
+    "e": 117.82,
+    "accent": false,
+    "en": false
+   }
+  ]
+ },
+ {
+  "id": 41,
+  "line": 21,
+  "half": 1,
+  "start": 118.1,
+  "end": 120.08,
+  "text": "Par yogya mere daad ke",
+  "words": [
+   {
+    "i": 185,
+    "w": "Par",
+    "dev": "पर",
+    "s": 118.1,
+    "e": 118.22,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 186,
+    "w": "yogya",
+    "dev": "योग्य",
+    "s": 118.34,
+    "e": 118.68,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 187,
+    "w": "mere",
+    "dev": "मेरे",
+    "s": 118.76,
+    "e": 119.12,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 188,
+    "w": "daad",
+    "dev": "दाद",
+    "s": 119.18,
+    "e": 119.42,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 189,
+    "w": "ke",
+    "dev": "के",
+    "s": 119.54,
+    "e": 120.08,
+    "accent": false,
+    "en": false
+   }
+  ]
+ },
+ {
+  "id": 42,
+  "line": 22,
+  "half": 0,
+  "start": 120.12,
+  "end": 120.76,
+  "text": "Daad ke",
+  "words": [
+   {
+    "i": 190,
+    "w": "Daad",
+    "dev": "दाद",
+    "s": 120.12,
+    "e": 120.38,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 191,
+    "w": "ke",
+    "dev": "के",
+    "s": 120.46,
+    "e": 120.76,
+    "accent": false,
+    "en": false
+   }
+  ]
+ },
+ {
+  "id": 43,
+  "line": 23,
+  "half": 0,
+  "start": 120.8,
+  "end": 122.58,
+  "text": "Jitthe pehre rakhan beebai",
+  "words": [
+   {
+    "i": 192,
+    "w": "Jitthe",
+    "dev": "जित्थे",
+    "s": 120.8,
+    "e": 121.2,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 193,
+    "w": "pehre",
+    "dev": "पहरे",
+    "s": 121.26,
+    "e": 121.64,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 194,
+    "w": "rakhan",
+    "dev": "रखान",
+    "s": 121.7,
+    "e": 122.1,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 195,
+    "w": "beebai",
+    "dev": "बीबाई",
+    "s": 122.16,
+    "e": 122.58,
+    "accent": false,
+    "en": false
+   }
+  ]
+ },
+ {
+  "id": 44,
+  "line": 23,
+  "half": 1,
+  "start": 122.64,
+  "end": 124.36,
+  "text": "Utthe thaad daat bhai",
+  "words": [
+   {
+    "i": 196,
+    "w": "Utthe",
+    "dev": "उथे",
+    "s": 122.64,
+    "e": 122.88,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 197,
+    "w": "thaad",
+    "dev": "थाड़",
+    "s": 123.02,
+    "e": 123.3,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 198,
+    "w": "daat",
+    "dev": "दात",
+    "s": 123.36,
+    "e": 123.64,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 199,
+    "w": "bhai",
+    "dev": "भाई",
+    "s": 123.68,
+    "e": 124.36,
+    "accent": false,
+    "en": false
+   }
+  ]
+ },
+ {
+  "id": 45,
+  "line": 24,
+  "half": 0,
+  "start": 124.38,
+  "end": 126.0,
+  "text": "Pind le le pachi keele",
+  "words": [
+   {
+    "i": 200,
+    "w": "Pind",
+    "dev": "पिंड",
+    "s": 124.38,
+    "e": 124.74,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 201,
+    "w": "le",
+    "dev": "ले",
+    "s": 124.82,
+    "e": 124.98,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 202,
+    "w": "le",
+    "dev": "ले",
+    "s": 125.04,
+    "e": 125.22,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 203,
+    "w": "pachi",
+    "dev": "पच्ची",
+    "s": 125.28,
+    "e": 125.6,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 204,
+    "w": "keele",
+    "dev": "कीले",
+    "s": 125.7,
+    "e": 126.0,
+    "accent": false,
+    "en": false
+   }
+  ]
+ },
+ {
+  "id": 46,
+  "line": 24,
+  "half": 1,
+  "start": 126.16,
+  "end": 127.92,
+  "text": "Gaali de ke aaya saai",
+  "words": [
+   {
+    "i": 205,
+    "w": "Gaali",
+    "dev": "गाली",
+    "s": 126.16,
+    "e": 126.52,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 206,
+    "w": "de",
+    "dev": "दे",
+    "s": 126.58,
+    "e": 126.72,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 207,
+    "w": "ke",
+    "dev": "के",
+    "s": 126.82,
+    "e": 126.92,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 208,
+    "w": "aaya",
+    "dev": "आया",
+    "s": 127.0,
+    "e": 127.22,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 209,
+    "w": "saai",
+    "dev": "साई",
+    "s": 127.28,
+    "e": 127.92,
+    "accent": false,
+    "en": false
+   }
+  ]
+ },
+ {
+  "id": 47,
+  "line": 25,
+  "half": 0,
+  "start": 127.96,
+  "end": 129.96,
+  "text": "Show off deni aandi bass",
+  "words": [
+   {
+    "i": 210,
+    "w": "Show",
+    "dev": "Show",
+    "s": 127.96,
+    "e": 128.4,
+    "accent": false,
+    "en": true
+   },
+   {
+    "i": 211,
+    "w": "off",
+    "dev": "off",
+    "s": 128.539,
+    "e": 128.68,
+    "accent": false,
+    "en": true
+   },
+   {
+    "i": 212,
+    "w": "deni",
+    "dev": "देनी",
+    "s": 128.84,
+    "e": 129.22,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 213,
+    "w": "aandi",
+    "dev": "आंदी",
+    "s": 129.34,
+    "e": 129.66,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 214,
+    "w": "bass",
+    "dev": "बस",
+    "s": 129.72,
+    "e": 129.96,
+    "accent": false,
+    "en": false
+   }
+  ]
+ },
+ {
+  "id": 48,
+  "line": 25,
+  "half": 1,
+  "start": 130.12,
+  "end": 131.46,
+  "text": "hand up gayi",
+  "words": [
+   {
+    "i": 215,
+    "w": "hand",
+    "dev": "hand",
+    "s": 130.12,
+    "e": 130.36,
+    "accent": false,
+    "en": true
+   },
+   {
+    "i": 216,
+    "w": "up",
+    "dev": "up",
+    "s": 130.56,
+    "e": 130.759,
+    "accent": false,
+    "en": true
+   },
+   {
+    "i": 217,
+    "w": "gayi",
+    "dev": "गई",
+    "s": 130.82,
+    "e": 131.46,
+    "accent": false,
+    "en": false
+   }
+  ]
+ },
+ {
+  "id": 49,
+  "line": 26,
+  "half": 0,
+  "start": 131.52,
+  "end": 133.18,
+  "text": "Chakki mili di main Lambo",
+  "words": [
+   {
+    "i": 218,
+    "w": "Chakki",
+    "dev": "चक्की",
+    "s": 131.52,
+    "e": 131.88,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 219,
+    "w": "mili",
+    "dev": "मिली",
+    "s": 131.94,
+    "e": 132.28,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 220,
+    "w": "di",
+    "dev": "दी",
+    "s": 132.38,
+    "e": 132.54,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 221,
+    "w": "main",
+    "dev": "मैं",
+    "s": 132.6,
+    "e": 132.72,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 222,
+    "w": "Lambo",
+    "dev": "Lambo",
+    "s": 132.82,
+    "e": 133.18,
+    "accent": false,
+    "en": true
+   }
+  ]
+ },
+ {
+  "id": 50,
+  "line": 26,
+  "half": 1,
+  "start": 133.28,
+  "end": 135.04,
+  "text": "Haale photo bhi ni paayi",
+  "words": [
+   {
+    "i": 223,
+    "w": "Haale",
+    "dev": "हाले",
+    "s": 133.28,
+    "e": 133.68,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 224,
+    "w": "photo",
+    "dev": "photo",
+    "s": 133.72,
+    "e": 134.02,
+    "accent": false,
+    "en": true
+   },
+   {
+    "i": 225,
+    "w": "bhi",
+    "dev": "भी",
+    "s": 134.08,
+    "e": 134.18,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 226,
+    "w": "ni",
+    "dev": "नी",
+    "s": 134.24,
+    "e": 134.34,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 227,
+    "w": "paayi",
+    "dev": "पाई",
+    "s": 134.42,
+    "e": 135.04,
+    "accent": false,
+    "en": false
+   }
+  ]
+ },
+ {
+  "id": 51,
+  "line": 27,
+  "half": 0,
+  "start": 135.98,
+  "end": 137.5,
+  "text": "Main sauda turi aa jaavan",
+  "words": [
+   {
+    "i": 228,
+    "w": "Main",
+    "dev": "मैं",
+    "s": 135.98,
+    "e": 136.12,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 229,
+    "w": "sauda",
+    "dev": "सोदा",
+    "s": 136.2,
+    "e": 136.56,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 230,
+    "w": "turi",
+    "dev": "तुरी",
+    "s": 136.66,
+    "e": 136.88,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 231,
+    "w": "aa",
+    "dev": "आ",
+    "s": 136.94,
+    "e": 137.04,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 232,
+    "w": "jaavan",
+    "dev": "जावां",
+    "s": 137.12,
+    "e": 137.5,
+    "accent": false,
+    "en": false
+   }
+  ]
+ },
+ {
+  "id": 52,
+  "line": 27,
+  "half": 1,
+  "start": 137.78,
+  "end": 139.52,
+  "text": "Tu takdi tedhi tedhi",
+  "words": [
+   {
+    "i": 233,
+    "w": "Tu",
+    "dev": "तू",
+    "s": 137.78,
+    "e": 137.92,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 234,
+    "w": "takdi",
+    "dev": "तकदी",
+    "s": 137.98,
+    "e": 138.38,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 235,
+    "w": "tedhi",
+    "dev": "टेढ़ी",
+    "s": 138.46,
+    "e": 138.78,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 236,
+    "w": "tedhi",
+    "dev": "टेढ़ी",
+    "s": 138.9,
+    "e": 139.52,
+    "accent": false,
+    "en": false
+   }
+  ]
+ },
+ {
+  "id": 53,
+  "line": 28,
+  "half": 0,
+  "start": 139.58,
+  "end": 141.3,
+  "text": "Tu body kardi prepare",
+  "words": [
+   {
+    "i": 237,
+    "w": "Tu",
+    "dev": "तू",
+    "s": 139.58,
+    "e": 139.7,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 238,
+    "w": "body",
+    "dev": "body",
+    "s": 139.76,
+    "e": 140.16,
+    "accent": false,
+    "en": true
+   },
+   {
+    "i": 239,
+    "w": "kardi",
+    "dev": "करदी",
+    "s": 140.24,
+    "e": 140.52,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 240,
+    "w": "prepare",
+    "dev": "prepare",
+    "s": 140.66,
+    "e": 141.3,
+    "accent": false,
+    "en": true
+   }
+  ]
+ },
+ {
+  "id": 54,
+  "line": 28,
+  "half": 1,
+  "start": 141.38,
+  "end": 143.1,
+  "text": "Te main karda kaam sheri",
+  "words": [
+   {
+    "i": 241,
+    "w": "Te",
+    "dev": "ते",
+    "s": 141.38,
+    "e": 141.48,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 242,
+    "w": "main",
+    "dev": "मैं",
+    "s": 141.58,
+    "e": 141.74,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 243,
+    "w": "karda",
+    "dev": "करदा",
+    "s": 141.82,
+    "e": 142.18,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 244,
+    "w": "kaam",
+    "dev": "काम",
+    "s": 142.24,
+    "e": 142.42,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 245,
+    "w": "sheri",
+    "dev": "शेरी",
+    "s": 142.5,
+    "e": 143.1,
+    "accent": false,
+    "en": false
+   }
+  ]
+ },
+ {
+  "id": 55,
+  "line": 29,
+  "half": 0,
+  "start": 143.14,
+  "end": 144.86,
+  "text": "Saada ta poora phera ae",
+  "words": [
+   {
+    "i": 246,
+    "w": "Saada",
+    "dev": "साडा",
+    "s": 143.14,
+    "e": 143.5,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 247,
+    "w": "ta",
+    "dev": "ता",
+    "s": 143.58,
+    "e": 143.74,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 248,
+    "w": "poora",
+    "dev": "पूरा",
+    "s": 143.84,
+    "e": 144.2,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 249,
+    "w": "phera",
+    "dev": "फेरा",
+    "s": 144.28,
+    "e": 144.7,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 250,
+    "w": "ae",
+    "dev": "ए",
+    "s": 144.78,
+    "e": 144.86,
+    "accent": false,
+    "en": false
+   }
+  ]
+ },
+ {
+  "id": 56,
+  "line": 29,
+  "half": 1,
+  "start": 144.96,
+  "end": 146.68,
+  "text": "Na main ni launda gedi",
+  "words": [
+   {
+    "i": 251,
+    "w": "Na",
+    "dev": "ना",
+    "s": 144.96,
+    "e": 145.1,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 252,
+    "w": "main",
+    "dev": "मैं",
+    "s": 145.16,
+    "e": 145.34,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 253,
+    "w": "ni",
+    "dev": "नी",
+    "s": 145.4,
+    "e": 145.54,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 254,
+    "w": "launda",
+    "dev": "लाउंदा",
+    "s": 145.62,
+    "e": 145.98,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 255,
+    "w": "gedi",
+    "dev": "गेड़ी",
+    "s": 146.06,
+    "e": 146.68,
+    "accent": false,
+    "en": false
+   }
+  ]
+ },
+ {
+  "id": 57,
+  "line": 30,
+  "half": 0,
+  "start": 146.74,
+  "end": 148.3,
+  "text": "Kaaran jo keete aslan",
+  "words": [
+   {
+    "i": 256,
+    "w": "Kaaran",
+    "dev": "कारां",
+    "s": 146.74,
+    "e": 147.12,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 257,
+    "w": "jo",
+    "dev": "जो",
+    "s": 147.2,
+    "e": 147.26,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 258,
+    "w": "keete",
+    "dev": "कीते",
+    "s": 147.42,
+    "e": 147.76,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 259,
+    "w": "aslan",
+    "dev": "असलां",
+    "s": 147.9,
+    "e": 148.3,
+    "accent": false,
+    "en": false
+   }
+  ]
+ },
+ {
+  "id": 58,
+  "line": 30,
+  "half": 1,
+  "start": 148.32,
+  "end": 150.08,
+  "text": "Ni ae dine early meri",
+  "words": [
+   {
+    "i": 260,
+    "w": "Ni",
+    "dev": "नी",
+    "s": 148.32,
+    "e": 148.46,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 261,
+    "w": "ae",
+    "dev": "ए",
+    "s": 148.58,
+    "e": 148.68,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 262,
+    "w": "dine",
+    "dev": "दिने",
+    "s": 148.76,
+    "e": 149.1,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 263,
+    "w": "early",
+    "dev": "early",
+    "s": 149.24,
+    "e": 149.56,
+    "accent": false,
+    "en": true
+   },
+   {
+    "i": 264,
+    "w": "meri",
+    "dev": "मेरी",
+    "s": 149.66,
+    "e": 150.08,
+    "accent": false,
+    "en": false
+   }
+  ]
+ },
+ {
+  "id": 59,
+  "line": 31,
+  "half": 0,
+  "start": 150.36,
+  "end": 151.36,
+  "text": "Ki leeda latta",
+  "words": [
+   {
+    "i": 265,
+    "w": "Ki",
+    "dev": "की",
+    "s": 150.36,
+    "e": 150.48,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 266,
+    "w": "leeda",
+    "dev": "लीड़ा",
+    "s": 150.56,
+    "e": 150.92,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 267,
+    "w": "latta",
+    "dev": "लत्ता",
+    "s": 150.98,
+    "e": 151.36,
+    "accent": false,
+    "en": false
+   }
+  ]
+ },
+ {
+  "id": 60,
+  "line": 31,
+  "half": 1,
+  "start": 151.66,
+  "end": 153.86,
+  "text": "Topla rakha main jaane chhaad ke",
+  "words": [
+   {
+    "i": 268,
+    "w": "Topla",
+    "dev": "टोपला",
+    "s": 151.66,
+    "e": 152.16,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 269,
+    "w": "rakha",
+    "dev": "रखा",
+    "s": 152.2,
+    "e": 152.5,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 270,
+    "w": "main",
+    "dev": "मैं",
+    "s": 152.54,
+    "e": 152.72,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 271,
+    "w": "jaane",
+    "dev": "जाने",
+    "s": 152.8,
+    "e": 153.16,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 272,
+    "w": "chhaad",
+    "dev": "छाड़",
+    "s": 153.26,
+    "e": 153.54,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 273,
+    "w": "ke",
+    "dev": "के",
+    "s": 153.6,
+    "e": 153.86,
+    "accent": false,
+    "en": false
+   }
+  ]
+ },
+ {
+  "id": 61,
+  "line": 32,
+  "half": 0,
+  "start": 153.92,
+  "end": 154.96,
+  "text": "Kachch o chabka",
+  "words": [
+   {
+    "i": 274,
+    "w": "Kachch",
+    "dev": "कच्च",
+    "s": 153.92,
+    "e": 154.3,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 275,
+    "w": "o",
+    "dev": "ओ",
+    "s": 154.4,
+    "e": 154.52,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 276,
+    "w": "chabka",
+    "dev": "चबका",
+    "s": 154.58,
+    "e": 154.96,
+    "accent": false,
+    "en": false
+   }
+  ]
+ },
+ {
+  "id": 62,
+  "line": 32,
+  "half": 1,
+  "start": 155.26,
+  "end": 157.26,
+  "text": "Peeneya jahanu yuga kaadh ke",
+  "words": [
+   {
+    "i": 277,
+    "w": "Peeneya",
+    "dev": "पीनेया",
+    "s": 155.26,
+    "e": 155.74,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 278,
+    "w": "jahanu",
+    "dev": "जहानूं",
+    "s": 155.82,
+    "e": 156.3,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 279,
+    "w": "yuga",
+    "dev": "यूगा",
+    "s": 156.38,
+    "e": 156.74,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 280,
+    "w": "kaadh",
+    "dev": "काढ़",
+    "s": 156.84,
+    "e": 157.1,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 281,
+    "w": "ke",
+    "dev": "के",
+    "s": 157.16,
+    "e": 157.26,
+    "accent": false,
+    "en": false
+   }
+  ]
+ },
+ {
+  "id": 63,
+  "line": 33,
+  "half": 0,
+  "start": 157.48,
+  "end": 158.52,
+  "text": "Darkulla ghoomda",
+  "words": [
+   {
+    "i": 282,
+    "w": "Darkulla",
+    "dev": "दरकुल्ला",
+    "s": 157.48,
+    "e": 158.08,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 283,
+    "w": "ghoomda",
+    "dev": "घूमदा",
+    "s": 158.16,
+    "e": 158.52,
+    "accent": false,
+    "en": false
+   }
+  ]
+ },
+ {
+  "id": 64,
+  "line": 33,
+  "half": 1,
+  "start": 158.84,
+  "end": 161.02,
+  "text": "Pairi nu rakha main yuga phaad ke",
+  "words": [
+   {
+    "i": 284,
+    "w": "Pairi",
+    "dev": "पैरी",
+    "s": 158.84,
+    "e": 159.14,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 285,
+    "w": "nu",
+    "dev": "नूं",
+    "s": 159.2,
+    "e": 159.32,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 286,
+    "w": "rakha",
+    "dev": "रखा",
+    "s": 159.36,
+    "e": 159.66,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 287,
+    "w": "main",
+    "dev": "मैं",
+    "s": 159.72,
+    "e": 159.88,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 288,
+    "w": "yuga",
+    "dev": "यूगा",
+    "s": 159.94,
+    "e": 160.28,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 289,
+    "w": "phaad",
+    "dev": "फाड़",
+    "s": 160.36,
+    "e": 160.68,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 290,
+    "w": "ke",
+    "dev": "के",
+    "s": 160.74,
+    "e": 161.02,
+    "accent": false,
+    "en": false
+   }
+  ]
+ },
+ {
+  "id": 65,
+  "line": 34,
+  "half": 0,
+  "start": 161.06,
+  "end": 162.1,
+  "text": "Ni tu full Berg",
+  "words": [
+   {
+    "i": 291,
+    "w": "Ni",
+    "dev": "नी",
+    "s": 161.06,
+    "e": 161.18,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 292,
+    "w": "tu",
+    "dev": "तू",
+    "s": 161.3,
+    "e": 161.46,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 293,
+    "w": "full",
+    "dev": "फुल",
+    "s": 161.52,
+    "e": 161.68,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 294,
+    "w": "Berg",
+    "dev": "Berg",
+    "s": 161.72,
+    "e": 162.1,
+    "accent": false,
+    "en": true
+   }
+  ]
+ },
+ {
+  "id": 66,
+  "line": 34,
+  "half": 1,
+  "start": 162.42,
+  "end": 164.84,
+  "text": "Pattharan nu aaya munda phaad ke",
+  "words": [
+   {
+    "i": 295,
+    "w": "Pattharan",
+    "dev": "पत्थरां",
+    "s": 162.42,
+    "e": 162.94,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 296,
+    "w": "nu",
+    "dev": "नूं",
+    "s": 162.98,
+    "e": 163.1,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 297,
+    "w": "aaya",
+    "dev": "आया",
+    "s": 163.18,
+    "e": 163.46,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 298,
+    "w": "munda",
+    "dev": "मुंडा",
+    "s": 163.52,
+    "e": 163.9,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 299,
+    "w": "phaad",
+    "dev": "फाड़",
+    "s": 164.0,
+    "e": 164.28,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 300,
+    "w": "ke",
+    "dev": "के",
+    "s": 164.36,
+    "e": 164.84,
+    "accent": false,
+    "en": false
+   }
+  ]
+ },
+ {
+  "id": 67,
+  "line": 35,
+  "half": 0,
+  "start": 164.9,
+  "end": 166.16,
+  "text": "Kardi milkiyan deedan",
+  "words": [
+   {
+    "i": 301,
+    "w": "Kardi",
+    "dev": "करदी",
+    "s": 164.9,
+    "e": 165.24,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 302,
+    "w": "milkiyan",
+    "dev": "मिलकियां",
+    "s": 165.32,
+    "e": 165.7,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 303,
+    "w": "deedan",
+    "dev": "दीदां",
+    "s": 165.78,
+    "e": 166.16,
+    "accent": false,
+    "en": false
+   }
+  ]
+ },
+ {
+  "id": 68,
+  "line": 35,
+  "half": 1,
+  "start": 166.46,
+  "end": 168.2,
+  "text": "Te saada khul gaya chaaka",
+  "words": [
+   {
+    "i": 304,
+    "w": "Te",
+    "dev": "ते",
+    "s": 166.46,
+    "e": 166.58,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 305,
+    "w": "saada",
+    "dev": "साडा",
+    "s": 166.66,
+    "e": 167.04,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 306,
+    "w": "khul",
+    "dev": "खुल",
+    "s": 167.1,
+    "e": 167.26,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 307,
+    "w": "gaya",
+    "dev": "गया",
+    "s": 167.32,
+    "e": 167.48,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 308,
+    "w": "chaaka",
+    "dev": "चाका",
+    "s": 167.58,
+    "e": 168.2,
+    "accent": false,
+    "en": false
+   }
+  ]
+ },
+ {
+  "id": 69,
+  "line": 36,
+  "half": 0,
+  "start": 168.26,
+  "end": 169.76,
+  "text": "Tu dil kardi ae chori",
+  "words": [
+   {
+    "i": 309,
+    "w": "Tu",
+    "dev": "तू",
+    "s": 168.26,
+    "e": 168.38,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 310,
+    "w": "dil",
+    "dev": "दिल",
+    "s": 168.44,
+    "e": 168.62,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 311,
+    "w": "kardi",
+    "dev": "करदी",
+    "s": 168.68,
+    "e": 169.06,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 312,
+    "w": "ae",
+    "dev": "ए",
+    "s": 169.16,
+    "e": 169.22,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 313,
+    "w": "chori",
+    "dev": "चोरी",
+    "s": 169.4,
+    "e": 169.76,
+    "accent": false,
+    "en": false
+   }
+  ]
+ },
+ {
+  "id": 70,
+  "line": 36,
+  "half": 1,
+  "start": 169.82,
+  "end": 171.8,
+  "text": "Ni te main maari da daaka",
+  "words": [
+   {
+    "i": 314,
+    "w": "Ni",
+    "dev": "नी",
+    "s": 169.82,
+    "e": 169.98,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 315,
+    "w": "te",
+    "dev": "ते",
+    "s": 170.06,
+    "e": 170.2,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 316,
+    "w": "main",
+    "dev": "मैं",
+    "s": 170.28,
+    "e": 170.44,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 317,
+    "w": "maari",
+    "dev": "मारी",
+    "s": 170.5,
+    "e": 170.86,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 318,
+    "w": "da",
+    "dev": "दा",
+    "s": 170.94,
+    "e": 171.1,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 319,
+    "w": "daaka",
+    "dev": "डाका",
+    "s": 171.18,
+    "e": 171.8,
+    "accent": true,
+    "en": false
+   }
+  ]
+ },
+ {
+  "id": 71,
+  "line": 37,
+  "half": 0,
+  "start": 171.86,
+  "end": 173.52,
+  "text": "Ae beke ji channu myaanan te",
+  "words": [
+   {
+    "i": 320,
+    "w": "Ae",
+    "dev": "ए",
+    "s": 171.86,
+    "e": 171.96,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 321,
+    "w": "beke",
+    "dev": "बेके",
+    "s": 172.04,
+    "e": 172.44,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 322,
+    "w": "ji",
+    "dev": "जी",
+    "s": 172.5,
+    "e": 172.6,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 323,
+    "w": "channu",
+    "dev": "चनू",
+    "s": 172.72,
+    "e": 172.88,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 324,
+    "w": "myaanan",
+    "dev": "म्यानां",
+    "s": 172.92,
+    "e": 173.32,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 325,
+    "w": "te",
+    "dev": "ते",
+    "s": 173.4,
+    "e": 173.52,
+    "accent": false,
+    "en": false
+   }
+  ]
+ },
+ {
+  "id": 72,
+  "line": 37,
+  "half": 1,
+  "start": 173.58,
+  "end": 175.32,
+  "text": "Mera shastar dena thaaka",
+  "words": [
+   {
+    "i": 326,
+    "w": "Mera",
+    "dev": "मेरा",
+    "s": 173.58,
+    "e": 173.76,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 327,
+    "w": "shastar",
+    "dev": "शास्त्र",
+    "s": 173.84,
+    "e": 174.22,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 328,
+    "w": "dena",
+    "dev": "देना",
+    "s": 174.28,
+    "e": 174.64,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 329,
+    "w": "thaaka",
+    "dev": "ठाका",
+    "s": 174.72,
+    "e": 175.32,
+    "accent": false,
+    "en": false
+   }
+  ]
+ },
+ {
+  "id": 73,
+  "line": 38,
+  "half": 0,
+  "start": 175.36,
+  "end": 177.1,
+  "text": "Dass ki kar lena kaaman ni",
+  "words": [
+   {
+    "i": 330,
+    "w": "Dass",
+    "dev": "दस",
+    "s": 175.36,
+    "e": 175.56,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 331,
+    "w": "ki",
+    "dev": "की",
+    "s": 175.64,
+    "e": 175.8,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 332,
+    "w": "kar",
+    "dev": "कर",
+    "s": 175.86,
+    "e": 176.02,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 333,
+    "w": "lena",
+    "dev": "लेना",
+    "s": 176.08,
+    "e": 176.46,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 334,
+    "w": "kaaman",
+    "dev": "कामां",
+    "s": 176.52,
+    "e": 176.92,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 335,
+    "w": "ni",
+    "dev": "नी",
+    "s": 177.04,
+    "e": 177.1,
+    "accent": false,
+    "en": false
+   }
+  ]
+ },
+ {
+  "id": 74,
+  "line": 38,
+  "half": 1,
+  "start": 177.16,
+  "end": 178.76,
+  "text": "Mera baajan aala raakha",
+  "words": [
+   {
+    "i": 336,
+    "w": "Mera",
+    "dev": "मेरा",
+    "s": 177.16,
+    "e": 177.34,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 337,
+    "w": "baajan",
+    "dev": "बाजां",
+    "s": 177.42,
+    "e": 177.8,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 338,
+    "w": "aala",
+    "dev": "आळा",
+    "s": 178.02,
+    "e": 178.24,
+    "accent": true,
+    "en": false
+   },
+   {
+    "i": 339,
+    "w": "raakha",
+    "dev": "राखा",
+    "s": 178.3,
+    "e": 178.76,
+    "accent": false,
+    "en": false
+   }
+  ]
+ },
+ {
+  "id": 75,
+  "line": 39,
+  "half": 0,
+  "start": 178.8,
+  "end": 180.02,
+  "text": "Chauraahan vich rode",
+  "words": [
+   {
+    "i": 340,
+    "w": "Chauraahan",
+    "dev": "चौराहां",
+    "s": 178.8,
+    "e": 179.38,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 341,
+    "w": "vich",
+    "dev": "विच",
+    "s": 179.42,
+    "e": 179.64,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 342,
+    "w": "rode",
+    "dev": "रोड़े",
+    "s": 179.68,
+    "e": 180.02,
+    "accent": false,
+    "en": false
+   }
+  ]
+ },
+ {
+  "id": 76,
+  "line": 39,
+  "half": 1,
+  "start": 180.34,
+  "end": 182.5,
+  "text": "Kainan ji Yaara na bhena kass ke",
+  "words": [
+   {
+    "i": 343,
+    "w": "Kainan",
+    "dev": "कईनां",
+    "s": 180.34,
+    "e": 180.68,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 344,
+    "w": "ji",
+    "dev": "जी",
+    "s": 180.74,
+    "e": 180.84,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 345,
+    "w": "Yaara",
+    "dev": "Yara",
+    "s": 180.9,
+    "e": 181.16,
+    "accent": false,
+    "en": true
+   },
+   {
+    "i": 346,
+    "w": "na",
+    "dev": "ना",
+    "s": 181.22,
+    "e": 181.34,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 347,
+    "w": "bhena",
+    "dev": "भेणा",
+    "s": 181.46,
+    "e": 181.82,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 348,
+    "w": "kass",
+    "dev": "कस",
+    "s": 181.9,
+    "e": 182.1,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 349,
+    "w": "ke",
+    "dev": "के",
+    "s": 182.26,
+    "e": 182.5,
+    "accent": false,
+    "en": false
+   }
+  ]
+ },
+ {
+  "id": 77,
+  "line": 40,
+  "half": 0,
+  "start": 182.54,
+  "end": 183.58,
+  "text": "Jatt mudd to zehri",
+  "words": [
+   {
+    "i": 350,
+    "w": "Jatt",
+    "dev": "जट",
+    "s": 182.54,
+    "e": 182.72,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 351,
+    "w": "mudd",
+    "dev": "मुड़",
+    "s": 182.76,
+    "e": 182.96,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 352,
+    "w": "to",
+    "dev": "तो",
+    "s": 183.02,
+    "e": 183.18,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 353,
+    "w": "zehri",
+    "dev": "जहरी",
+    "s": 183.26,
+    "e": 183.58,
+    "accent": false,
+    "en": false
+   }
+  ]
+ },
+ {
+  "id": 78,
+  "line": 40,
+  "half": 1,
+  "start": 183.92,
+  "end": 186.12,
+  "text": "Naag ni reha koi saanu kass ke",
+  "words": [
+   {
+    "i": 354,
+    "w": "Naag",
+    "dev": "नाग",
+    "s": 183.92,
+    "e": 184.2,
+    "accent": true,
+    "en": false
+   },
+   {
+    "i": 355,
+    "w": "ni",
+    "dev": "नी",
+    "s": 184.26,
+    "e": 184.4,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 356,
+    "w": "reha",
+    "dev": "रेहा",
+    "s": 184.46,
+    "e": 184.7,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 357,
+    "w": "koi",
+    "dev": "कोई",
+    "s": 184.78,
+    "e": 184.94,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 358,
+    "w": "saanu",
+    "dev": "सानू",
+    "s": 185.02,
+    "e": 185.38,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 359,
+    "w": "kass",
+    "dev": "कस",
+    "s": 185.48,
+    "e": 185.68,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 360,
+    "w": "ke",
+    "dev": "के",
+    "s": 185.82,
+    "e": 186.12,
+    "accent": false,
+    "en": false
+   }
+  ]
+ },
+ {
+  "id": 79,
+  "line": 41,
+  "half": 0,
+  "start": 186.16,
+  "end": 187.74,
+  "text": "Babe di saanu bakhshe",
+  "words": [
+   {
+    "i": 361,
+    "w": "Babe",
+    "dev": "बाबे",
+    "s": 186.16,
+    "e": 186.54,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 362,
+    "w": "di",
+    "dev": "दी",
+    "s": 186.6,
+    "e": 186.74,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 363,
+    "w": "saanu",
+    "dev": "सानू",
+    "s": 186.82,
+    "e": 187.22,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 364,
+    "w": "bakhshe",
+    "dev": "बख्शे",
+    "s": 187.28,
+    "e": 187.74,
+    "accent": false,
+    "en": false
+   }
+  ]
+ },
+ {
+  "id": 80,
+  "line": 41,
+  "half": 1,
+  "start": 187.96,
+  "end": 189.7,
+  "text": "Kannakiyan gaani lash ke",
+  "words": [
+   {
+    "i": 365,
+    "w": "Kannakiyan",
+    "dev": "कन्नकियां",
+    "s": 187.96,
+    "e": 188.56,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 366,
+    "w": "gaani",
+    "dev": "गानी",
+    "s": 188.62,
+    "e": 188.96,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 367,
+    "w": "lash",
+    "dev": "लश",
+    "s": 189.06,
+    "e": 189.34,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 368,
+    "w": "ke",
+    "dev": "के",
+    "s": 189.4,
+    "e": 189.7,
+    "accent": false,
+    "en": false
+   }
+  ]
+ },
+ {
+  "id": 81,
+  "line": 42,
+  "half": 0,
+  "start": 189.76,
+  "end": 190.76,
+  "text": "Ni mode paundi",
+  "words": [
+   {
+    "i": 369,
+    "w": "Ni",
+    "dev": "नी",
+    "s": 189.76,
+    "e": 189.88,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 370,
+    "w": "mode",
+    "dev": "मोडे",
+    "s": 189.96,
+    "e": 190.34,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 371,
+    "w": "paundi",
+    "dev": "पौंदी",
+    "s": 190.4,
+    "e": 190.76,
+    "accent": false,
+    "en": false
+   }
+  ]
+ },
+ {
+  "id": 82,
+  "line": 42,
+  "half": 1,
+  "start": 191.1,
+  "end": 193.3,
+  "text": "Jhumar de naal hi keh ke ASHKE",
+  "words": [
+   {
+    "i": 372,
+    "w": "Jhumar",
+    "dev": "झुमर",
+    "s": 191.1,
+    "e": 191.56,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 373,
+    "w": "de",
+    "dev": "दे",
+    "s": 191.62,
+    "e": 191.72,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 374,
+    "w": "naal",
+    "dev": "नाल",
+    "s": 191.78,
+    "e": 191.94,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 375,
+    "w": "hi",
+    "dev": "ही",
+    "s": 191.98,
+    "e": 192.1,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 376,
+    "w": "keh",
+    "dev": "कह",
+    "s": 192.18,
+    "e": 192.36,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 377,
+    "w": "ke",
+    "dev": "के",
+    "s": 192.44,
+    "e": 192.56,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 378,
+    "w": "ASHKE",
+    "dev": "अश्के",
+    "s": 192.72,
+    "e": 193.3,
+    "accent": true,
+    "en": false
+   }
+  ]
+ },
+ {
+  "id": 83,
+  "line": 43,
+  "half": 0,
+  "start": 193.5,
+  "end": 194.34,
+  "text": "Ni mode paundi",
+  "words": [
+   {
+    "i": 379,
+    "w": "Ni",
+    "dev": "नी",
+    "s": 193.5,
+    "e": 193.68,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 380,
+    "w": "mode",
+    "dev": "मोडे",
+    "s": 193.68,
+    "e": 193.92,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 381,
+    "w": "paundi",
+    "dev": "पौंदी",
+    "s": 194.0,
+    "e": 194.34,
+    "accent": false,
+    "en": false
+   }
+  ]
+ },
+ {
+  "id": 84,
+  "line": 43,
+  "half": 1,
+  "start": 194.7,
+  "end": 196.86,
+  "text": "Jhumar de naal hi keh ke ASHKE",
+  "words": [
+   {
+    "i": 382,
+    "w": "Jhumar",
+    "dev": "झुमर",
+    "s": 194.7,
+    "e": 195.02,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 383,
+    "w": "de",
+    "dev": "दे",
+    "s": 195.18,
+    "e": 195.26,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 384,
+    "w": "naal",
+    "dev": "नाल",
+    "s": 195.32,
+    "e": 195.54,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 385,
+    "w": "hi",
+    "dev": "ही",
+    "s": 195.58,
+    "e": 195.7,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 386,
+    "w": "keh",
+    "dev": "कह",
+    "s": 195.76,
+    "e": 195.94,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 387,
+    "w": "ke",
+    "dev": "के",
+    "s": 196.0,
+    "e": 196.14,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 388,
+    "w": "ASHKE",
+    "dev": "अश्के",
+    "s": 196.3,
+    "e": 196.86,
+    "accent": true,
+    "en": false
+   }
+  ]
+ },
+ {
+  "id": 85,
+  "line": 44,
+  "half": 0,
+  "start": 196.92,
+  "end": 197.94,
+  "text": "Ni mode paundi",
+  "words": [
+   {
+    "i": 389,
+    "w": "Ni",
+    "dev": "नी",
+    "s": 196.92,
+    "e": 197.04,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 390,
+    "w": "mode",
+    "dev": "मोडे",
+    "s": 197.12,
+    "e": 197.5,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 391,
+    "w": "paundi",
+    "dev": "पौंदी",
+    "s": 197.58,
+    "e": 197.94,
+    "accent": false,
+    "en": false
+   }
+  ]
+ },
+ {
+  "id": 86,
+  "line": 44,
+  "half": 1,
+  "start": 198.26,
+  "end": 200.66,
+  "text": "Jhumar de naal hi keh ke ASHKE",
+  "words": [
+   {
+    "i": 392,
+    "w": "Jhumar",
+    "dev": "झुमर",
+    "s": 198.26,
+    "e": 198.6,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 393,
+    "w": "de",
+    "dev": "दे",
+    "s": 198.78,
+    "e": 198.86,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 394,
+    "w": "naal",
+    "dev": "नाल",
+    "s": 198.92,
+    "e": 199.12,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 395,
+    "w": "hi",
+    "dev": "ही",
+    "s": 199.14,
+    "e": 199.28,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 396,
+    "w": "keh",
+    "dev": "कह",
+    "s": 199.36,
+    "e": 199.52,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 397,
+    "w": "ke",
+    "dev": "के",
+    "s": 199.6,
+    "e": 199.74,
+    "accent": false,
+    "en": false
+   },
+   {
+    "i": 398,
+    "w": "ASHKE",
+    "dev": "अश्के",
+    "s": 199.88,
+    "e": 200.66,
+    "accent": true,
+    "en": false
+   }
+  ]
+ }
+]
