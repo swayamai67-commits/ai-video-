@@ -7,3 +7,4 @@ inputs/reference-reel.mp4
 __pycache__/
 *.log
 out/ashke-full-16x9.mp4
+previews/
