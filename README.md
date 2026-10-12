@@ -4,7 +4,7 @@
 
 | Output | Format | File |
 |---|---|---|
-| Full video | 1920×1080 · 25 fps · 3:38 | `out/ashke-full-16x9.mp4` |
+| Full video | 1920×1080 · 25 fps · 3:38 | `out/ashke-full-16x9-web.mp4` (3.3 Mbps web encode; the 204 MB CRF-18 master `out/ashke-full-16x9.mp4` exceeds GitHub's file limit and is rebuilt with `npm run render:full`) |
 | Reel | 1080×1920 · 25 fps · 0:45 (song 0:47 → 1:32) | `out/ashke-reel-9x16.mp4` |
 | Hero proof | 1920×1080 · song 0:59 → 1:10 | `out/hero-proof.mp4` |
 
