@@ -6,11 +6,14 @@
   "scripts": {
     "studio": "remotion studio",
     "render:full": "remotion render AshkeFull ../out/ashke-full-16x9.mp4",
-    "render:reel": "remotion render AshkeReel ../out/ashke-reel-9x16.mp4"
+    "render:reel": "remotion render AshkeReel ../out/ashke-reel-9x16.mp4",
+    "render:viral": "remotion render AshkeViral ../out/ashke-viral-9x16.mp4",
+    "render:viral-proof": "remotion render AshkeViral ../out/ashke-viral-proof.mp4 --frames=1200-1925"
   },
   "dependencies": {
     "@remotion/cli": "4.0.534",
     "@remotion/fonts": "4.0.534",
+    "@remotion/layout-utils": "^4.0.534",
     "@remotion/media-utils": "4.0.534",
     "@remotion/paths": "4.0.534",
     "react": "18.3.1",
@@ -19,9 +22,14 @@
   },
   "devDependencies": {
     "@fontsource/amita": "^5.1.0",
+    "@fontsource/anek-gurmukhi": "^5.3.0",
+    "@fontsource/anton": "^5.3.0",
+    "@fontsource/archivo-black": "^5.3.0",
     "@fontsource/cormorant-garamond": "5.1.0",
     "@fontsource/eczar": "^5.1.0",
     "@fontsource/ibm-plex-mono": "5.1.0",
+    "@fontsource/instrument-serif": "^5.3.0",
+    "@fontsource/jetbrains-mono": "^5.3.0",
     "@fontsource/kalam": "5.1.0",
     "@fontsource/khand": "^5.1.0",
     "@fontsource/laila": "^5.1.0",

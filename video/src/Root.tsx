@@ -2,6 +2,8 @@ import React from 'react';
 import {Composition} from 'remotion';
 import {FullFilm, ReelFilm} from './Film';
 import {FPS, REEL_END, REEL_START, SONG_DURATION} from './theme';
+import {ViralFilm} from './viral/ViralFilm';
+import {FPS as VFPS, SONG_END as VEND} from './viral/config';
 
 export const Root: React.FC = () => (
   <>
@@ -15,5 +17,6 @@ export const Root: React.FC = () => (
       durationInFrames={Math.round((REEL_END - REEL_START) * FPS)}
       defaultProps={{songStart: REEL_START, songEnd: REEL_END}}
     />
+    <Composition id="AshkeViral" component={ViralFilm} width={1080} height={1920} fps={VFPS} durationInFrames={Math.round(VEND * VFPS)} />
   </>
 );
