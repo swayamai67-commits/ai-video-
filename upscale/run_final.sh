@@ -21,7 +21,7 @@ mkdir -p "$WORK/seg"
 TOTAL=13080; SEG=$(( (TOTAL + JOBS - 1) / JOBS ))
 export PLATE_DIR="$WORK/plate/sr" MATTE="$WORK/matte/matte.mp4" FRONT_DIR="$WORK/layers/front" BEHIND_DIR="$WORK/layers/behind"
 export FX="$ROOT/video/src/edit/data/fx.json" CUTS="$ROOT/data/cuts.txt" BEATS="$ROOT/video/src/edit/data/beats.json"
-export X264_THREADS=2 CV_THREADS=2
+export X264_THREADS=2 CV_THREADS=2 CRF=${CRF:-18} MAXRATE=${MAXRATE:-70M} BUFSIZE=${BUFSIZE:-140M}
 pids=()
 for ((j = 0; j < JOBS; j++)); do
   a=$(( j * SEG )); b=$(( (j + 1) * SEG < TOTAL ? (j + 1) * SEG : TOTAL ))

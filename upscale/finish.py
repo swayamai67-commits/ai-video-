@@ -287,6 +287,7 @@ def flash_at(t):
 enc = subprocess.Popen(["ffmpeg", "-v", "error", "-y", "-f", "rawvideo", "-pix_fmt", "bgr24", "-s", f"{W}x{H}", "-r", str(OUT_FPS),
     "-i", "-", "-vf", "scale=out_color_matrix=bt709:flags=bicubic,format=yuv420p",
     "-c:v", "libx264", "-preset", os.environ.get("X264_PRESET", "medium"), "-crf", os.environ.get("CRF", "15"),
+    *(["-maxrate", os.environ["MAXRATE"], "-bufsize", os.environ.get("BUFSIZE", os.environ["MAXRATE"])] if os.environ.get("MAXRATE") else []),
     "-profile:v", "high", "-level", "5.2", "-x264-params", "keyint=120:min-keyint=60", "-threads", os.environ.get("X264_THREADS", "2"),
     "-colorspace", "bt709", "-color_primaries", "bt709", "-color_trc", "bt709", "-color_range", "tv", OUT], stdin=subprocess.PIPE)
 
