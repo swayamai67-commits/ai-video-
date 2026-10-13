@@ -9,7 +9,8 @@
 | 2 · Beats | same script, librosa: beats (~156 BPM), onsets, 30–150 Hz kicks, a 60 Hz energy curve | `data/beat-map.json` |
 | 3 · Plates | `pipeline/build_plates.py`: Real-ESRGAN x4plus run twice on CPU via spandrel (170 → 2720 px, Lanczos to 2560, light unsharp), then a rembg `u2net_human_seg` cut-out of Tyler | `video/public/cover/{cover,tyler}.png` |
 | 4 · Textures | `pipeline/build_textures.py`: seeded film grain tiles, kraft paper (3840×2160), halftone screen | `video/public/{grain,tex}/` |
-| 5 · Engine | Remotion 4 + React/TypeScript in `video/src`, authored at 1920×1080 and rendered with `--scale=2`. Vectors and type are re-rasterised natively at 3840×2160, not upscaled | `out/see-you-again-4k60.mp4` |
+| 5 · Engine | Remotion 4 + React/TypeScript in `video/src`, authored at 1920×1080 and rendered with `--scale=2`. Vectors and type are re-rasterised natively at 3840×2160, not upscaled | master `out/see-you-again-4k60-master.mp4` (CRF 14, 385 Mbps, 560 MB, not committed) |
+| 6 · Delivery | 2-pass H.264 High@5.2, 55 Mbps, BT.709 TV range (the master is full-range `yuvj420p` from JPEG frames), AAC 320k, faststart. SSIM vs master: 0.994 chroma, 0.94 luma (the loss is per-frame random film grain) | `out/see-you-again-4k60.mp4` (80 MB, 3840×2160, 60 fps, 700 frames) |
 
 ## Lyric check (the words are what's sung)
 
@@ -50,6 +51,8 @@ Contact sheets of key frames were reviewed after each pass (`docs/qa/`). Fixed a
 
 ## Known weaknesses
 
+- `out/proof-1080p60.mp4` predates one fix: there, *And can you make it* cuts at 2.62 s instead of fading out. The 4K render has the fade.
+
 - The source art is 170 px. ESRGAN ×16 gives a clean painterly 2560 px plate, but detail is invented, and the deepest tunnel zooms (up to ~5.9× on the outgoing level) are soft. Depth-of-field blur is applied there on purpose.
 - The rembg matte has a slight fringe at Tyler's left hand. It's only visible in the largest tunnel frames.
 - Word timings for *And can you make it* come from onset placement, not forced alignment (no aligner model was reachable from this environment). They look right in the proof, but they can be ±0.05 s.
@@ -65,6 +68,7 @@ python3 -m venv .venv && .venv/bin/pip install torch spandrel "rembg[cpu]" libro
 python3 pipeline/build_textures.py
 cp data/*.json video/src/data/
 cd video && npm install
-npm run render:4k      # → out/see-you-again-4k60.mp4 (3840×2160, 60 fps)
+npm run render:4k        # → out/see-you-again-4k60-master.mp4 (≈1 h 10 m on 4 CPU cores)
+npm run encode:delivery  # → out/see-you-again-4k60.mp4 (80 MB)
 node scripts/stills.mjs /tmp/qa 0.96 3.9 6.9 10.6   # QA stills at song times
 ```

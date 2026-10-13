@@ -5,7 +5,8 @@
   "description": "See You Again (Tyler, The Creator ft. Kali Uchis) motion-designed lyric video around the Flower Boy cover, built with Remotion",
   "scripts": {
     "studio": "remotion studio",
-    "render:4k": "remotion render SeeYouAgain ../out/see-you-again-4k60.mp4 --scale=2",
+    "render:4k": "remotion render SeeYouAgain ../out/see-you-again-4k60-master.mp4 --scale=2",
+    "encode:delivery": "ffmpeg -y -i ../out/see-you-again-4k60-master.mp4 -vf scale=in_range=full:out_range=tv,format=yuv420p -c:v libx264 -preset slow -profile:v high -level 5.2 -b:v 54M -maxrate 80M -bufsize 108M -x264-params aq-mode=3 -colorspace bt709 -color_primaries bt709 -color_trc bt709 -color_range tv -c:a aac -b:a 320k -movflags +faststart ../out/see-you-again-4k60.mp4",
     "render:proof": "remotion render SeeYouAgain ../out/proof-1080p60.mp4"
   },
   "dependencies": {

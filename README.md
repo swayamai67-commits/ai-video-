@@ -26,7 +26,7 @@ Song and footage © their owners. This is a fan or portfolio piece. Credit the a
 
 | Output | File |
 |---|---|
-| Final 4K/60 | `see-you-again/out/see-you-again-4k60.mp4` |
+| Final 4K/60 (3840×2160, 60 fps, H.264 55 Mbps) | `see-you-again/out/see-you-again-4k60.mp4` |
 | Proof | `see-you-again/out/proof-1080p60.mp4` |
 | Key frames | `see-you-again/docs/qa/` |
 
