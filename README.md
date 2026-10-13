@@ -1,3 +1,12 @@
+# Motion-designed lyric videos
+
+| Project | Song | Output |
+|---|---|---|
+| [`earrings/`](earrings/README.md) | Malcolm Todd, "Earrings" | 9:16 illustrated lyric film, **2160×3840 @ 60 fps** (`earrings/out/earrings-4k60.mp4`) |
+| ASHKE (below, repo root) | Karan Aujla × Mxrci, "Ashke" | 16:9 full video + 9:16 reel |
+
+---
+
 # ASHKE — motion-designed lyric video
 
 **Karan Aujla × Mxrci · Aujla SZN 1**: a lyric video built on the official music video, designed as an English country-house *Order of the Day*.
