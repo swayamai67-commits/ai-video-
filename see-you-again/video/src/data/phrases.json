@@ -1,0 +1,54 @@
+[
+ {
+  "line": 0,
+  "text": "Can I get a kiss? And can you make it last forever.",
+  "start": 0.22,
+  "end": 4.48,
+  "words": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11
+  ]
+ },
+ {
+  "line": 1,
+  "text": "I said I'm 'bout to go to war.",
+  "start": 5.72,
+  "end": 7.4,
+  "words": [
+   12,
+   13,
+   14,
+   15,
+   16,
+   17,
+   18,
+   19
+  ]
+ },
+ {
+  "line": 2,
+  "text": "I don't know if I'ma see you again.",
+  "start": 8.98,
+  "end": 11.02,
+  "words": [
+   20,
+   21,
+   22,
+   23,
+   24,
+   25,
+   26,
+   27
+  ]
+ }
+]

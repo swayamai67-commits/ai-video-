@@ -17,3 +17,22 @@ Made with Remotion (React + TypeScript), following the six-stage process in `inp
 - `video/`: the Remotion project
 
 Song and footage © their owners. This is a fan or portfolio piece. Credit the artist and get permission before any commercial use. Fonts: SIL OFL.
+
+---
+
+# SEE YOU AGAIN: motion-designed lyric video (`see-you-again/`)
+
+**Tyler, The Creator ft. Kali Uchis · *Flower Boy*** (11.6 s clip): motion graphics built around the album cover, at **3840×2160 · 60 fps**.
+
+| Output | File |
+|---|---|
+| Final 4K/60 | `see-you-again/out/see-you-again-4k60.mp4` |
+| Proof | `see-you-again/out/proof-1080p60.mp4` |
+| Key frames | `see-you-again/docs/qa/` |
+
+The film moves from the kiss, through Rubin's-vase profiles, into an endless Polaroid Droste fall (*last FOREVER*). Then comes the field, where a red thread snaps on *war*, and a velocity pull-back turns the world into a postcard that is postmarked and carried into the dusk by bees. Every person and bee is drawn in code. The cover is AI-upscaled ×16 (Real-ESRGAN), and Tyler is cut out for depth.
+
+- `see-you-again/docs/creative-direction.md`: concept, the bee-line motif, worlds, type, intensity curve
+- `see-you-again/docs/implementation-notes.md`: pipeline, lyric check, engine, QA, rebuild
+- `see-you-again/pipeline/`: timing/beat, upscale/cut-out, texture scripts
+- `see-you-again/video/`: the Remotion project

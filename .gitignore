@@ -8,3 +8,7 @@ __pycache__/
 *.log
 out/ashke-full-16x9.mp4
 previews/
+see-you-again/pipeline/models/
+see-you-again/pipeline/cache/
+see-you-again/video/node_modules/
+see-you-again/video/out/

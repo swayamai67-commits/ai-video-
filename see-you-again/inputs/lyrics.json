@@ -1,0 +1,273 @@
+{
+  "language_code": "eng",
+  "segments": [
+    {
+      "text": "[upbeat music] Can I get a kiss? [indistinct] last forever. ",
+      "start_time": 0.06,
+      "end_time": 4.68,
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Speaker 0"
+      },
+      "words": [
+        {
+          "text": "[upbeat music]",
+          "start_time": 0.06,
+          "end_time": 0.2
+        },
+        {
+          "text": " ",
+          "start_time": 0.2,
+          "end_time": 0.2
+        },
+        {
+          "text": "Can",
+          "start_time": 0.22,
+          "end_time": 0.36
+        },
+        {
+          "text": " ",
+          "start_time": 0.36,
+          "end_time": 0.44
+        },
+        {
+          "text": "I",
+          "start_time": 0.44,
+          "end_time": 0.48
+        },
+        {
+          "text": " ",
+          "start_time": 0.48,
+          "end_time": 0.56
+        },
+        {
+          "text": "get",
+          "start_time": 0.56,
+          "end_time": 0.74
+        },
+        {
+          "text": " ",
+          "start_time": 0.74,
+          "end_time": 0.78
+        },
+        {
+          "text": "a",
+          "start_time": 0.78,
+          "end_time": 0.86
+        },
+        {
+          "text": " ",
+          "start_time": 0.86,
+          "end_time": 0.96
+        },
+        {
+          "text": "kiss?",
+          "start_time": 0.96,
+          "end_time": 1.38
+        },
+        {
+          "text": " ",
+          "start_time": 1.38,
+          "end_time": 1.4
+        },
+        {
+          "text": "[indistinct]",
+          "start_time": 1.4,
+          "end_time": 2.58
+        },
+        {
+          "text": " ",
+          "start_time": 2.58,
+          "end_time": 2.62
+        },
+        {
+          "text": "last",
+          "start_time": 3.2,
+          "end_time": 3.76
+        },
+        {
+          "text": " ",
+          "start_time": 3.76,
+          "end_time": 3.8
+        },
+        {
+          "text": "forever.",
+          "start_time": 3.8,
+          "end_time": 4.48
+        },
+        {
+          "text": " ",
+          "start_time": 4.48,
+          "end_time": 4.68
+        }
+      ]
+    },
+    {
+      "text": "I said I'm 'bout to pull away. ",
+      "start_time": 5.72,
+      "end_time": 7.4,
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Speaker 0"
+      },
+      "words": [
+        {
+          "text": "I",
+          "start_time": 5.72,
+          "end_time": 5.74
+        },
+        {
+          "text": " ",
+          "start_time": 5.74,
+          "end_time": 5.82
+        },
+        {
+          "text": "said",
+          "start_time": 5.82,
+          "end_time": 6.06
+        },
+        {
+          "text": " ",
+          "start_time": 6.06,
+          "end_time": 6.14
+        },
+        {
+          "text": "I'm",
+          "start_time": 6.14,
+          "end_time": 6.2
+        },
+        {
+          "text": " ",
+          "start_time": 6.2,
+          "end_time": 6.22
+        },
+        {
+          "text": "'bout",
+          "start_time": 6.22,
+          "end_time": 6.38
+        },
+        {
+          "text": " ",
+          "start_time": 6.38,
+          "end_time": 6.44
+        },
+        {
+          "text": "to",
+          "start_time": 6.44,
+          "end_time": 6.54
+        },
+        {
+          "text": " ",
+          "start_time": 6.54,
+          "end_time": 6.62
+        },
+        {
+          "text": "pull",
+          "start_time": 6.62,
+          "end_time": 6.84
+        },
+        {
+          "text": " ",
+          "start_time": 6.84,
+          "end_time": 6.88
+        },
+        {
+          "text": "away.",
+          "start_time": 6.88,
+          "end_time": 7.4
+        },
+        {
+          "text": " ",
+          "start_time": 7.4,
+          "end_time": 7.4
+        }
+      ]
+    },
+    {
+      "text": "I don't know if I'ma see you again.",
+      "start_time": 8.98,
+      "end_time": 11.02,
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Speaker 0"
+      },
+      "words": [
+        {
+          "text": "I",
+          "start_time": 8.98,
+          "end_time": 9.08
+        },
+        {
+          "text": " ",
+          "start_time": 9.08,
+          "end_time": 9.12
+        },
+        {
+          "text": "don't",
+          "start_time": 9.16,
+          "end_time": 9.28
+        },
+        {
+          "text": " ",
+          "start_time": 9.28,
+          "end_time": 9.32
+        },
+        {
+          "text": "know",
+          "start_time": 9.32,
+          "end_time": 9.48
+        },
+        {
+          "text": " ",
+          "start_time": 9.48,
+          "end_time": 9.54
+        },
+        {
+          "text": "if",
+          "start_time": 9.54,
+          "end_time": 9.66
+        },
+        {
+          "text": " ",
+          "start_time": 9.66,
+          "end_time": 9.76
+        },
+        {
+          "text": "I'ma",
+          "start_time": 9.76,
+          "end_time": 9.98
+        },
+        {
+          "text": " ",
+          "start_time": 9.98,
+          "end_time": 10.04
+        },
+        {
+          "text": "see",
+          "start_time": 10.04,
+          "end_time": 10.2
+        },
+        {
+          "text": " ",
+          "start_time": 10.2,
+          "end_time": 10.28
+        },
+        {
+          "text": "you",
+          "start_time": 10.28,
+          "end_time": 10.4
+        },
+        {
+          "text": " ",
+          "start_time": 10.4,
+          "end_time": 10.5
+        },
+        {
+          "text": "again.",
+          "start_time": 10.5,
+          "end_time": 11.02
+        }
+      ]
+    }
+  ]
+}
