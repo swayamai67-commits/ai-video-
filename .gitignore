@@ -8,3 +8,8 @@ __pycache__/
 *.log
 out/ashke-full-16x9.mp4
 previews/
+video/public/mv.mp4
+video/public/plate/
+video/public/matte/
+video/public/grain4k/
+out/hero-proof-4k60.mp4
