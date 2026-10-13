@@ -1,0 +1,188 @@
+[
+ {
+  "seq": 0,
+  "world": "HEAD",
+  "start": 0.0,
+  "end": 1.14,
+  "lyrics": "(intro)",
+  "meaning": "Before the words: the object that the whole song is about.",
+  "visualConcept": "A glint spins up into a gold hoop at the centre of frame (Y-axis spin, 7 half-turns easing out).",
+  "heroWords": [],
+  "intensity": 2,
+  "transitionOut": "The hoop stays put; the next lyric is built around it."
+ },
+ {
+  "seq": 1,
+  "world": "HEAD",
+  "words": [
+   0,
+   5
+  ],
+  "lyrics": "Her love is in your head.",
+  "meaning": "She is all he thinks about.",
+  "heroWords": [
+   "love",
+   "head"
+  ],
+  "visualConcept": "The hoop is the o in \"love\"; a one-line profile draws itself around the words and the hoop turns out to be hanging from its earlobe.",
+  "semanticMetaphor": "earring = the thought she left behind",
+  "typographyTreatment": "Instrument Serif italic 250px with the hoop as a letter; function words tiny",
+  "motion": "line art stroke-draws over 2.2s; pendulum swing on the hoop",
+  "intensity": 4,
+  "transitionOut": "On \"You lost\" the hoop is nudged, drops off the ear, and the camera falls with it.",
+  "start": 1.14,
+  "end": 3.4
+ },
+ {
+  "seq": 2,
+  "world": "SHEET",
+  "words": [
+   6,
+   12
+  ],
+  "lyrics": "You lost your earrings in her bed.",
+  "meaning": "The physical evidence, left at her place.",
+  "heroWords": [
+   "earrings",
+   "bed"
+  ],
+  "visualConcept": "Camera tilts from night into ivory silk sheets; two hoops land with hard metallic bounces on \"earrings\", letters of \"earrings\" drop and bounce like the metal.",
+  "semanticMetaphor": "metal on silk",
+  "motion": "gravity + decaying bounces; silk breathes slowly; window light leak",
+  "intensity": 7,
+  "transitionOut": "A fold shadow slides over the pair; camera pushes into the dark crease, where a phone wakes.",
+  "start": 3.44,
+  "end": 6.4
+ },
+ {
+  "seq": 3,
+  "world": "THREAD",
+  "words": [
+   13,
+   20
+  ],
+  "lyrics": "You couldn't tell her that you lost them",
+  "meaning": "He tries to text her.",
+  "heroWords": [
+   "couldn't",
+   "lost"
+  ],
+  "visualConcept": "Full-bleed iMessage thread to \"her\" (avatar = the hoop). The lyric is typed in the field in sync with the vocal, mirrored large in serif, with live keyboard key pops.",
+  "intensity": 5,
+  "transitionOut": "Backspaced.",
+  "start": 6.46,
+  "end": 9.64
+ },
+ {
+  "seq": 4,
+  "world": "THREAD",
+  "words": [
+   21,
+   27
+  ],
+  "lyrics": "'cause you're scared and you're not talking.",
+  "meaning": "Fear; silence on both sides.",
+  "heroWords": [
+   "scared",
+   "not talking"
+  ],
+  "visualConcept": "Panic backspace deletes the message; SCARED (the only Anton in the film) punches in with chromatic split and tremble; her typing bubble appears and vanishes on \"talking\".",
+  "intensity": 8,
+  "transitionOut": "Words drain to grey.",
+  "start": 9.72,
+  "end": 12.64
+ },
+ {
+  "seq": 5,
+  "world": "THREAD",
+  "words": [
+   28,
+   34
+  ],
+  "lyrics": "So you think of what to say",
+  "meaning": "Drafting and redrafting.",
+  "heroWords": [
+   "think",
+   "say"
+  ],
+  "visualConcept": "Ghost drafts typed and deleted in the field: \"hey\", \"random question but\", \"i think i left my earrings at yours\".",
+  "intensity": 5,
+  "start": 12.78,
+  "end": 15.34
+ },
+ {
+  "seq": 6,
+  "world": "THREAD",
+  "words": [
+   35,
+   40
+  ],
+  "lyrics": "and save it for another day.",
+  "meaning": "Procrastination.",
+  "heroWords": [
+   "save",
+   "another day"
+  ],
+  "visualConcept": "\"save\" collapses the draft into a Saved to Drafts toast whose spinner is the hoop; on \"another day\" the date stamp flips forward day after day; the screen locks to black glass.",
+  "intensity": 6,
+  "transitionOut": "Screen lock.",
+  "start": 15.44,
+  "end": 18.3
+ },
+ {
+  "seq": 7,
+  "world": "WIRE",
+  "words": [
+   41,
+   47
+  ],
+  "lyrics": "'Cause you just never had the heart.",
+  "meaning": "He never had the courage.",
+  "heroWords": [
+   "never",
+   "heart"
+  ],
+  "visualConcept": "A gold earring wire draws a heart around \"heart.\" and stops 14% short of closing: a heart that never completes.",
+  "intensity": 5,
+  "transitionOut": "The heart splits at its cleft.",
+  "start": 18.34,
+  "end": 21.34
+ },
+ {
+  "seq": 8,
+  "world": "DRIFT",
+  "words": [
+   48,
+   55
+  ],
+  "lyrics": "Now they just drift further apart from you.",
+  "meaning": "The relationship (and the earrings) slip away.",
+  "heroWords": [
+   "drift",
+   "further",
+   "apart"
+  ],
+  "visualConcept": "The two lobes of the broken heart become two hoops drifting apart in dark space; \"drift\" leaves a motion trail, \"further\" tracks out, \"ap|art\" tears in two, \"from you.\" is left alone; camera pulls back.",
+  "intensity": 8,
+  "transitionOut": "One hoop rushes into frame on \"Oh\".",
+  "start": 21.44,
+  "end": 25.44
+ },
+ {
+  "seq": 9,
+  "world": "OH",
+  "words": [
+   56,
+   58
+  ],
+  "lyrics": "Oh. From you.",
+  "meaning": "The sigh.",
+  "heroWords": [
+   "Oh"
+  ],
+  "visualConcept": "The hoop becomes the O of a 560px \"Oh.\" with gold halation and a light leak; title card; final glint; fade.",
+  "intensity": 9,
+  "start": 28.24,
+  "end": 29.9
+ }
+]

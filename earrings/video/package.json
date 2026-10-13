@@ -1,0 +1,29 @@
+{
+  "name": "earrings-lyric-video",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Earrings (Malcolm Todd) motion-designed lyric reel, built with Remotion",
+  "scripts": {
+    "studio": "remotion studio",
+    "render:4k": "remotion render Earrings ../out/earrings-4k60.mp4 --scale=2",
+    "render:1080": "remotion render Earrings ../out/earrings-1080p60.mp4"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.534",
+    "@remotion/fonts": "4.0.534",
+    "@remotion/paths": "4.0.534",
+    "@remotion/noise": "4.0.534",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "remotion": "4.0.534"
+  },
+  "devDependencies": {
+    "@fontsource/instrument-serif": "5.1.0",
+    "@fontsource/inter-tight": "5.1.0",
+    "@fontsource/jetbrains-mono": "5.1.0",
+    "@fontsource/caveat": "5.1.0",
+    "@fontsource/anton": "5.1.0",
+    "@types/react": "18.3.12",
+    "typescript": "5.6.3"
+  }
+}

@@ -1,0 +1,356 @@
+[
+ {
+  "word": "Her",
+  "start": 1.14,
+  "end": 1.36,
+  "i": 0
+ },
+ {
+  "word": "love",
+  "start": 1.52,
+  "end": 1.92,
+  "i": 1
+ },
+ {
+  "word": "is",
+  "start": 2.04,
+  "end": 2.28,
+  "i": 2
+ },
+ {
+  "word": "in",
+  "start": 2.34,
+  "end": 2.58,
+  "i": 3
+ },
+ {
+  "word": "your",
+  "start": 2.66,
+  "end": 2.9,
+  "i": 4
+ },
+ {
+  "word": "head.",
+  "start": 3.02,
+  "end": 3.4,
+  "i": 5
+ },
+ {
+  "word": "You",
+  "start": 3.44,
+  "end": 3.5,
+  "i": 6
+ },
+ {
+  "word": "lost",
+  "start": 3.8,
+  "end": 4.08,
+  "i": 7
+ },
+ {
+  "word": "your",
+  "start": 4.18,
+  "end": 4.36,
+  "i": 8
+ },
+ {
+  "word": "earrings",
+  "start": 4.62,
+  "end": 5.28,
+  "i": 9
+ },
+ {
+  "word": "in",
+  "start": 5.32,
+  "end": 5.54,
+  "i": 10
+ },
+ {
+  "word": "her",
+  "start": 5.66,
+  "end": 5.86,
+  "i": 11
+ },
+ {
+  "word": "bed.",
+  "start": 6.02,
+  "end": 6.4,
+  "i": 12
+ },
+ {
+  "word": "You",
+  "start": 6.46,
+  "end": 6.6,
+  "i": 13
+ },
+ {
+  "word": "couldn't",
+  "start": 6.74,
+  "end": 7.44,
+  "i": 14
+ },
+ {
+  "word": "tell",
+  "start": 7.54,
+  "end": 7.92,
+  "i": 15
+ },
+ {
+  "word": "her",
+  "start": 7.94,
+  "end": 8.2,
+  "i": 16
+ },
+ {
+  "word": "that",
+  "start": 8.34,
+  "end": 8.58,
+  "i": 17
+ },
+ {
+  "word": "you",
+  "start": 8.72,
+  "end": 8.94,
+  "i": 18
+ },
+ {
+  "word": "lost",
+  "start": 9.06,
+  "end": 9.36,
+  "i": 19
+ },
+ {
+  "word": "them",
+  "start": 9.44,
+  "end": 9.64,
+  "i": 20
+ },
+ {
+  "word": "'cause",
+  "start": 9.72,
+  "end": 10.02,
+  "i": 21
+ },
+ {
+  "word": "you're",
+  "start": 10.16,
+  "end": 10.36,
+  "i": 22
+ },
+ {
+  "word": "scared",
+  "start": 10.44,
+  "end": 10.92,
+  "i": 23
+ },
+ {
+  "word": "and",
+  "start": 11.0,
+  "end": 11.18,
+  "i": 24
+ },
+ {
+  "word": "you're",
+  "start": 11.3,
+  "end": 11.56,
+  "i": 25
+ },
+ {
+  "word": "not",
+  "start": 11.66,
+  "end": 11.92,
+  "i": 26
+ },
+ {
+  "word": "talking.",
+  "start": 12.02,
+  "end": 12.64,
+  "i": 27
+ },
+ {
+  "word": "So",
+  "start": 12.78,
+  "end": 13.04,
+  "i": 28
+ },
+ {
+  "word": "you",
+  "start": 13.18,
+  "end": 13.34,
+  "i": 29
+ },
+ {
+  "word": "think",
+  "start": 13.52,
+  "end": 13.92,
+  "i": 30
+ },
+ {
+  "word": "of",
+  "start": 14.02,
+  "end": 14.2,
+  "i": 31
+ },
+ {
+  "word": "what",
+  "start": 14.3,
+  "end": 14.58,
+  "i": 32
+ },
+ {
+  "word": "to",
+  "start": 14.66,
+  "end": 14.82,
+  "i": 33
+ },
+ {
+  "word": "say",
+  "start": 15.02,
+  "end": 15.34,
+  "i": 34
+ },
+ {
+  "word": "and",
+  "start": 15.44,
+  "end": 15.58,
+  "i": 35
+ },
+ {
+  "word": "save",
+  "start": 15.78,
+  "end": 16.14,
+  "i": 36
+ },
+ {
+  "word": "it",
+  "start": 16.219,
+  "end": 16.3,
+  "i": 37
+ },
+ {
+  "word": "for",
+  "start": 16.52,
+  "end": 16.92,
+  "i": 38
+ },
+ {
+  "word": "another",
+  "start": 17.0,
+  "end": 17.78,
+  "i": 39
+ },
+ {
+  "word": "day.",
+  "start": 18.02,
+  "end": 18.3,
+  "i": 40
+ },
+ {
+  "word": "'Cause",
+  "start": 18.34,
+  "end": 18.72,
+  "i": 41
+ },
+ {
+  "word": "you",
+  "start": 18.8,
+  "end": 19.06,
+  "i": 42
+ },
+ {
+  "word": "just",
+  "start": 19.16,
+  "end": 19.46,
+  "i": 43
+ },
+ {
+  "word": "never",
+  "start": 19.54,
+  "end": 20.1,
+  "i": 44
+ },
+ {
+  "word": "had",
+  "start": 20.3,
+  "end": 20.6,
+  "i": 45
+ },
+ {
+  "word": "the",
+  "start": 20.68,
+  "end": 20.84,
+  "i": 46
+ },
+ {
+  "word": "heart.",
+  "start": 21.02,
+  "end": 21.34,
+  "i": 47
+ },
+ {
+  "word": "Now",
+  "start": 21.44,
+  "end": 21.64,
+  "i": 48
+ },
+ {
+  "word": "they",
+  "start": 21.8,
+  "end": 22.08,
+  "i": 49
+ },
+ {
+  "word": "just",
+  "start": 22.18,
+  "end": 22.46,
+  "i": 50
+ },
+ {
+  "word": "drift",
+  "start": 22.52,
+  "end": 22.82,
+  "i": 51
+ },
+ {
+  "word": "further",
+  "start": 22.9,
+  "end": 23.6,
+  "i": 52
+ },
+ {
+  "word": "apart",
+  "start": 23.76,
+  "end": 24.42,
+  "i": 53
+ },
+ {
+  "word": "from",
+  "start": 24.78,
+  "end": 25.04,
+  "i": 54
+ },
+ {
+  "word": "you.",
+  "start": 25.18,
+  "end": 25.44,
+  "i": 55
+ },
+ {
+  "word": "Oh.",
+  "start": 28.24,
+  "end": 29.05,
+  "i": 56
+ },
+ {
+  "word": "From",
+  "start": 29.12,
+  "end": 29.24,
+  "i": 57
+ },
+ {
+  "word": "you.",
+  "start": 29.24,
+  "end": 29.9,
+  "i": 58
+ }
+]

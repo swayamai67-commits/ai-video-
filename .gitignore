@@ -8,3 +8,5 @@ __pycache__/
 *.log
 out/ashke-full-16x9.mp4
 previews/
+earrings/previews/
+earrings/out/earrings-4k60-master.mp4

@@ -1,3 +1,5 @@
+> **Also in this repo:** [`earrings/`](earrings/README.md): a 4K 60 fps 9:16 lyric reel for Malcolm Todd's "Earrings".
+
 # ASHKE — motion-designed lyric video
 
 **Karan Aujla × Mxrci · Aujla SZN 1**: a lyric video built on the official music video, designed as an English country-house *Order of the Day*.
